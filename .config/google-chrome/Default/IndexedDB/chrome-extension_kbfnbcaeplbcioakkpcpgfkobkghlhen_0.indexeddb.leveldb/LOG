@@ -1,0 +1,5 @@
+2020/09/27-19:35:12.702 280 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-19:35:12.717 280 Recovering log #4
+2020/09/27-19:35:12.824 280 Reusing old log /home/ndemo/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000004.log 
+2020/09/27-20:08:18.218 470 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/27-20:08:18.218 470 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

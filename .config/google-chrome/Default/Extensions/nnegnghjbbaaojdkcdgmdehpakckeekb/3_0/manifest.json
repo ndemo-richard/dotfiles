@@ -1,0 +1,33 @@
+{
+   "chrome_settings_overrides": {
+      "homepage": "http://search.swagbucks.com/?f=51",
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "http://search.swagbucks.com/favicon.ico",
+         "image_url": "http://search.swagbucks.com/?f=51&q={searchTerms}",
+         "instant_url": "http://search.swagbucks.com/?f=51&q={searchTerms}",
+         "is_default": true,
+         "keyword": "Swagbucks Search",
+         "name": "Swagbucks Search",
+         "search_url": "http://search.swagbucks.com/?f=51&q={searchTerms}",
+         "suggest_url": "http://search.swagbucks.com/?f=51&q={searchTerms}"
+      }
+   },
+   "chrome_url_overrides": {
+      "newtab": "redirect.html"
+   },
+   "content_scripts": [ {
+      "js": [ "SBSearchPageExtension.js" ],
+      "matches": [ "*://*.swagbucks.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Swagbucks Search Extension",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqziAsw1DM1uZ24a5i6VlJ7+Qq+SNwYMvUAPrS7u/ySVYGZKDTaY7bp1jJQBinc0GwI1FaZ1o0ZCMbn6cJmToXzKj9ThrKtOH4B523Xq8ItavXBAbBGUWbte5fuehgVgJ4tLI0Axz1BvF/kApIFjg0uGbyk4+3tSYww/YyQz3eJQnBjydho8kSee7OrDJ8aVMNfPUuC5XQ9if89f8NsqAqUgd3/g3fdNL9Koyj3Cx9M/LXUWLgqearvOGeS1JVO8oUQcMu+F9xMR0AEqdfOEgYXzy03SCzQIq859vQvXhJQ0esPulvzAv5TDJepw3Lkm3U8Sfddr4whhY2ganLrHS6wIDAQAB",
+   "manifest_version": 2,
+   "name": "Swagbucks Search",
+   "permissions": [  ],
+   "short_name": "Swagbucks Search",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3",
+   "web_accessible_resources": [  ]
+}

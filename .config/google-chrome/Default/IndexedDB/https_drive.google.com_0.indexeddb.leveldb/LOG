@@ -1,0 +1,15 @@
+2020/09/27-18:10:47.002 735 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-18:10:47.003 735 Recovering log #31
+2020/09/27-18:10:47.130 735 Reusing old log /home/ndemo/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000031.log 
+2020/09/27-18:38:15.774 46c Level-0 table #36: started
+2020/09/27-18:38:15.958 46c Level-0 table #36: 3153023 bytes OK
+2020/09/27-18:38:16.003 46c Delete type=0 #31
+2020/09/27-18:38:16.011 46c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/27-18:38:16.011 46c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x003\x00e\x00b\x009\x00d\x00c\x00b\x005\x006\x003\x001\x009\x007\x007\x000\x00e\x006\x004\x00a\x00f\x00a\x009\x00b\x00b\x009\x001\x001\x00e\x00f\x000\x005\x003\x00_\x003\x00_\x001\x00:\x000\x000' @ 13133 : 0
+2020/09/27-18:38:16.011 46c Compacting 1@1 + 1@2 files
+2020/09/27-18:38:16.070 46c Generated table #37@1: 72 keys, 59412 bytes
+2020/09/27-18:38:16.070 46c Compacted 1@1 + 1@2 files => 59412 bytes
+2020/09/27-18:38:16.112 46c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/27-18:38:16.113 46c Delete type=2 #36
+2020/09/27-18:38:16.113 46c Delete type=2 #33
+2020/09/27-18:38:16.114 46c Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x003\x00e\x00b\x009\x00d\x00c\x00b\x005\x006\x003\x001\x009\x007\x007\x000\x00e\x006\x004\x00a\x00f\x00a\x009\x00b\x00b\x009\x001\x001\x00e\x00f\x000\x005\x003\x00_\x003\x00_\x001\x00:\x000\x000' @ 13133 : 0 .. (end); will stop at (end)

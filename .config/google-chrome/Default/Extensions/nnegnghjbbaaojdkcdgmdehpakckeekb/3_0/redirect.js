@@ -1,0 +1,1 @@
+window.location.href="http://search.swagbucks.com/?f=51";

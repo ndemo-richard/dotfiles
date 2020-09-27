@@ -1,0 +1,5 @@
+2020/09/25-17:07:52.138 2209 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/IndexedDB/https_www.networkworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/25-17:08:24.148 36b Level-0 table #5: started
+2020/09/25-17:08:24.181 36b Level-0 table #5: 826 bytes OK
+2020/09/25-17:08:24.216 36b Delete type=0 #3
+2020/09/25-17:08:24.217 36b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

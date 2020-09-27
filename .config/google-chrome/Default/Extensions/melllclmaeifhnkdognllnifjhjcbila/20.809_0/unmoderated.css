@@ -1,0 +1,3167 @@
+.vldt-installed {
+  /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */ }
+  .vldt-installed * {
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 0.01em;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-feature-settings: "kern" 1; }
+  .vldt-installed *:not(i) {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
+  .vldt-installed html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%; }
+  .vldt-installed body {
+    margin: 0; }
+  .vldt-installed article,
+  .vldt-installed aside,
+  .vldt-installed details,
+  .vldt-installed figcaption,
+  .vldt-installed figure,
+  .vldt-installed footer,
+  .vldt-installed header,
+  .vldt-installed hgroup,
+  .vldt-installed main,
+  .vldt-installed menu,
+  .vldt-installed nav,
+  .vldt-installed section,
+  .vldt-installed summary {
+    display: block; }
+  .vldt-installed audio,
+  .vldt-installed canvas,
+  .vldt-installed progress,
+  .vldt-installed video {
+    display: inline-block;
+    vertical-align: baseline; }
+  .vldt-installed audio:not([controls]) {
+    display: none;
+    height: 0; }
+  .vldt-installed [hidden],
+  .vldt-installed template {
+    display: none; }
+  .vldt-installed a {
+    background-color: transparent; }
+  .vldt-installed a:active,
+  .vldt-installed a:hover {
+    outline: 0; }
+  .vldt-installed abbr[title] {
+    border-bottom: 1px dotted; }
+  .vldt-installed b,
+  .vldt-installed strong {
+    font-weight: bold; }
+  .vldt-installed dfn {
+    font-style: italic; }
+  .vldt-installed h1 {
+    font-size: 2em;
+    margin: 0.67em 0; }
+  .vldt-installed mark {
+    background: #ff0;
+    color: #000; }
+  .vldt-installed small {
+    font-size: 80%; }
+  .vldt-installed sub,
+  .vldt-installed sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline; }
+  .vldt-installed sup {
+    top: -0.5em; }
+  .vldt-installed sub {
+    bottom: -0.25em; }
+  .vldt-installed img {
+    border: 0; }
+  .vldt-installed svg:not(:root) {
+    overflow: hidden; }
+  .vldt-installed figure {
+    margin: 1em 40px; }
+  .vldt-installed hr {
+    box-sizing: content-box;
+    height: 0; }
+  .vldt-installed pre {
+    overflow: auto; }
+  .vldt-installed code,
+  .vldt-installed kbd,
+  .vldt-installed pre,
+  .vldt-installed samp {
+    font-family: monospace, monospace;
+    font-size: 1em; }
+  .vldt-installed button,
+  .vldt-installed input,
+  .vldt-installed optgroup,
+  .vldt-installed select,
+  .vldt-installed textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0; }
+  .vldt-installed button {
+    overflow: visible; }
+  .vldt-installed button,
+  .vldt-installed select {
+    text-transform: none; }
+  .vldt-installed button,
+  .vldt-installed html input[type="button"],
+  .vldt-installed input[type="reset"],
+  .vldt-installed input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer; }
+  .vldt-installed button[disabled],
+  .vldt-installed html input[disabled] {
+    cursor: default; }
+  .vldt-installed button::-moz-focus-inner,
+  .vldt-installed input::-moz-focus-inner {
+    border: 0;
+    padding: 0; }
+  .vldt-installed input {
+    line-height: normal; }
+  .vldt-installed input[type="checkbox"],
+  .vldt-installed input[type="radio"] {
+    box-sizing: border-box;
+    padding: 0; }
+  .vldt-installed input[type="number"]::-webkit-inner-spin-button,
+  .vldt-installed input[type="number"]::-webkit-outer-spin-button {
+    height: auto; }
+  .vldt-installed input[type="search"] {
+    -webkit-appearance: textfield;
+    box-sizing: content-box; }
+  .vldt-installed input[type="search"]::-webkit-search-cancel-button,
+  .vldt-installed input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none; }
+  .vldt-installed fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em; }
+  .vldt-installed legend {
+    border: 0;
+    padding: 0; }
+  .vldt-installed textarea {
+    overflow: auto; }
+  .vldt-installed optgroup {
+    font-weight: bold; }
+  .vldt-installed table {
+    border-collapse: collapse;
+    border-spacing: 0; }
+  .vldt-installed td,
+  .vldt-installed th {
+    padding: 0; }
+  .vldt-installed h1, .vldt-installed h2, .vldt-installed h3, .vldt-installed h4, .vldt-installed h5, .vldt-installed h6,
+  .vldt-installed .h1, .vldt-installed .h2, .vldt-installed .h3, .vldt-installed .h4, .vldt-installed .h5, .vldt-installed .h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.33333;
+    color: inherit; }
+    .vldt-installed h1 small,
+    .vldt-installed h1 .small, .vldt-installed h2 small,
+    .vldt-installed h2 .small, .vldt-installed h3 small,
+    .vldt-installed h3 .small, .vldt-installed h4 small,
+    .vldt-installed h4 .small, .vldt-installed h5 small,
+    .vldt-installed h5 .small, .vldt-installed h6 small,
+    .vldt-installed h6 .small,
+    .vldt-installed .h1 small,
+    .vldt-installed .h1 .small, .vldt-installed .h2 small,
+    .vldt-installed .h2 .small, .vldt-installed .h3 small,
+    .vldt-installed .h3 .small, .vldt-installed .h4 small,
+    .vldt-installed .h4 .small, .vldt-installed .h5 small,
+    .vldt-installed .h5 .small, .vldt-installed .h6 small,
+    .vldt-installed .h6 .small {
+      font-weight: normal;
+      line-height: 1;
+      color: #777777; }
+  .vldt-installed h1, .vldt-installed .h1,
+  .vldt-installed h2, .vldt-installed .h2,
+  .vldt-installed h3, .vldt-installed .h3 {
+    margin-top: 22px;
+    margin-bottom: 11px; }
+    .vldt-installed h1 small,
+    .vldt-installed h1 .small, .vldt-installed .h1 small,
+    .vldt-installed .h1 .small,
+    .vldt-installed h2 small,
+    .vldt-installed h2 .small, .vldt-installed .h2 small,
+    .vldt-installed .h2 .small,
+    .vldt-installed h3 small,
+    .vldt-installed h3 .small, .vldt-installed .h3 small,
+    .vldt-installed .h3 .small {
+      font-size: 65%; }
+  .vldt-installed h4, .vldt-installed .h4,
+  .vldt-installed h5, .vldt-installed .h5,
+  .vldt-installed h6, .vldt-installed .h6 {
+    margin-top: 11px;
+    margin-bottom: 11px; }
+    .vldt-installed h4 small,
+    .vldt-installed h4 .small, .vldt-installed .h4 small,
+    .vldt-installed .h4 .small,
+    .vldt-installed h5 small,
+    .vldt-installed h5 .small, .vldt-installed .h5 small,
+    .vldt-installed .h5 .small,
+    .vldt-installed h6 small,
+    .vldt-installed h6 .small, .vldt-installed .h6 small,
+    .vldt-installed .h6 .small {
+      font-size: 75%; }
+  .vldt-installed h1, .vldt-installed .h1 {
+    font-size: 36px; }
+  .vldt-installed h2, .vldt-installed .h2 {
+    font-size: 30px; }
+  .vldt-installed h3, .vldt-installed .h3 {
+    font-size: 24px; }
+  .vldt-installed h4, .vldt-installed .h4 {
+    font-size: 18px; }
+  .vldt-installed h5, .vldt-installed .h5 {
+    font-size: 14px; }
+  .vldt-installed h6, .vldt-installed .h6 {
+    font-size: 12px; }
+  .vldt-installed p {
+    margin: 0 0 11px; }
+  .vldt-installed .lead {
+    margin-bottom: 22px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4; }
+    @media (min-width: 768px) {
+      .vldt-installed .lead {
+        font-size: 21px; } }
+  .vldt-installed small,
+  .vldt-installed .small {
+    font-size: 85%; }
+  .vldt-installed mark,
+  .vldt-installed .mark {
+    background-color: #fcf8e3;
+    padding: .2em; }
+  .vldt-installed .text-left {
+    text-align: left; }
+  .vldt-installed .text-right {
+    text-align: right; }
+  .vldt-installed .text-center {
+    text-align: center; }
+  .vldt-installed .text-justify {
+    text-align: justify; }
+  .vldt-installed .text-nowrap {
+    white-space: nowrap; }
+  .vldt-installed .text-lowercase {
+    text-transform: lowercase; }
+  .vldt-installed .text-uppercase, .vldt-installed .initialism {
+    text-transform: uppercase; }
+  .vldt-installed .text-capitalize {
+    text-transform: capitalize; }
+  .vldt-installed .text-muted {
+    color: #777777; }
+  .vldt-installed .text-primary {
+    color: #428ac9; }
+  .vldt-installed a.text-primary:hover,
+  .vldt-installed a.text-primary:focus {
+    color: #3070a8; }
+  .vldt-installed .text-success {
+    color: #3c763d; }
+  .vldt-installed a.text-success:hover,
+  .vldt-installed a.text-success:focus {
+    color: #2b542c; }
+  .vldt-installed .text-info {
+    color: #31708f; }
+  .vldt-installed a.text-info:hover,
+  .vldt-installed a.text-info:focus {
+    color: #245269; }
+  .vldt-installed .text-warning {
+    color: #8a6d3b; }
+  .vldt-installed a.text-warning:hover,
+  .vldt-installed a.text-warning:focus {
+    color: #66512c; }
+  .vldt-installed .text-danger {
+    color: #a94442; }
+  .vldt-installed a.text-danger:hover,
+  .vldt-installed a.text-danger:focus {
+    color: #843534; }
+  .vldt-installed .bg-primary {
+    color: #fff; }
+  .vldt-installed .bg-primary {
+    background-color: #428ac9; }
+  .vldt-installed a.bg-primary:hover,
+  .vldt-installed a.bg-primary:focus {
+    background-color: #3070a8; }
+  .vldt-installed .bg-success {
+    background-color: #dff0d8; }
+  .vldt-installed a.bg-success:hover,
+  .vldt-installed a.bg-success:focus {
+    background-color: #c1e2b3; }
+  .vldt-installed .bg-info {
+    background-color: #d9edf7; }
+  .vldt-installed a.bg-info:hover,
+  .vldt-installed a.bg-info:focus {
+    background-color: #afd9ee; }
+  .vldt-installed .bg-warning {
+    background-color: #fcf8e3; }
+  .vldt-installed a.bg-warning:hover,
+  .vldt-installed a.bg-warning:focus {
+    background-color: #f7ecb5; }
+  .vldt-installed .bg-danger {
+    background-color: #f2dede; }
+  .vldt-installed a.bg-danger:hover,
+  .vldt-installed a.bg-danger:focus {
+    background-color: #e4b9b9; }
+  .vldt-installed .page-header {
+    padding-bottom: 10px;
+    margin: 44px 0 22px;
+    border-bottom: 1px solid #eeeeee; }
+  .vldt-installed ul,
+  .vldt-installed ol {
+    margin-top: 0;
+    margin-bottom: 11px; }
+    .vldt-installed ul ul,
+    .vldt-installed ul ol,
+    .vldt-installed ol ul,
+    .vldt-installed ol ol {
+      margin-bottom: 0; }
+  .vldt-installed .list-unstyled {
+    padding-left: 0;
+    list-style: none; }
+  .vldt-installed .list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px; }
+    .vldt-installed .list-inline > li {
+      display: inline-block;
+      padding-left: 5px;
+      padding-right: 5px; }
+  .vldt-installed dl {
+    margin-top: 0;
+    margin-bottom: 22px; }
+  .vldt-installed dt,
+  .vldt-installed dd {
+    line-height: 1.6; }
+  .vldt-installed dt {
+    font-weight: bold; }
+  .vldt-installed dd {
+    margin-left: 0; }
+  .vldt-installed .dl-horizontal dd:before, .vldt-installed .dl-horizontal dd:after {
+    content: " ";
+    display: table; }
+  .vldt-installed .dl-horizontal dd:after {
+    clear: both; }
+  @media (min-width: 768px) {
+    .vldt-installed .dl-horizontal dt {
+      float: left;
+      width: 160px;
+      clear: left;
+      text-align: right;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+    .vldt-installed .dl-horizontal dd {
+      margin-left: 180px; } }
+  .vldt-installed abbr[title],
+  .vldt-installed abbr[data-original-title] {
+    cursor: help;
+    border-bottom: 1px dotted #777777; }
+  .vldt-installed .initialism {
+    font-size: 90%; }
+  .vldt-installed blockquote {
+    padding: 11px 22px;
+    margin: 0 0 22px;
+    font-size: 17.5px;
+    border-left: 5px solid #eeeeee; }
+    .vldt-installed blockquote p:last-child,
+    .vldt-installed blockquote ul:last-child,
+    .vldt-installed blockquote ol:last-child {
+      margin-bottom: 0; }
+    .vldt-installed blockquote footer,
+    .vldt-installed blockquote small,
+    .vldt-installed blockquote .small {
+      display: block;
+      font-size: 80%;
+      line-height: 1.6;
+      color: #777777; }
+      .vldt-installed blockquote footer:before,
+      .vldt-installed blockquote small:before,
+      .vldt-installed blockquote .small:before {
+        content: '\2014 \00A0'; }
+  .vldt-installed .blockquote-reverse,
+  .vldt-installed blockquote.pull-right {
+    padding-right: 15px;
+    padding-left: 0;
+    border-right: 5px solid #eeeeee;
+    border-left: 0;
+    text-align: right; }
+    .vldt-installed .blockquote-reverse footer:before,
+    .vldt-installed .blockquote-reverse small:before,
+    .vldt-installed .blockquote-reverse .small:before,
+    .vldt-installed blockquote.pull-right footer:before,
+    .vldt-installed blockquote.pull-right small:before,
+    .vldt-installed blockquote.pull-right .small:before {
+      content: ''; }
+    .vldt-installed .blockquote-reverse footer:after,
+    .vldt-installed .blockquote-reverse small:after,
+    .vldt-installed .blockquote-reverse .small:after,
+    .vldt-installed blockquote.pull-right footer:after,
+    .vldt-installed blockquote.pull-right small:after,
+    .vldt-installed blockquote.pull-right .small:after {
+      content: '\00A0 \2014'; }
+  .vldt-installed address {
+    margin-bottom: 22px;
+    font-style: normal;
+    line-height: 1.6; }
+  .vldt-installed * {
+    box-sizing: border-box; }
+  .vldt-installed *:before,
+  .vldt-installed *:after {
+    box-sizing: border-box; }
+  .vldt-installed html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: transparent; }
+  .vldt-installed body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #333333;
+    background-color: #fff; }
+  .vldt-installed input,
+  .vldt-installed button,
+  .vldt-installed select,
+  .vldt-installed textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit; }
+  .vldt-installed a {
+    color: #428ac9;
+    text-decoration: none; }
+    .vldt-installed a:hover, .vldt-installed a:focus {
+      color: #2a6394;
+      text-decoration: underline; }
+    .vldt-installed a:focus {
+      outline: thin dotted;
+      outline: 5px auto -webkit-focus-ring-color;
+      outline-offset: -2px; }
+  .vldt-installed figure {
+    margin: 0; }
+  .vldt-installed img {
+    vertical-align: middle; }
+  .vldt-installed .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto; }
+  .vldt-installed .img-rounded {
+    border-radius: 6px; }
+  .vldt-installed .img-thumbnail {
+    padding: 4px;
+    line-height: 1.6;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+    display: inline-block;
+    max-width: 100%;
+    height: auto; }
+  .vldt-installed .img-circle {
+    border-radius: 50%; }
+  .vldt-installed hr {
+    margin-top: 22px;
+    margin-bottom: 22px;
+    border: 0;
+    border-top: 1px solid #eeeeee; }
+  .vldt-installed .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0; }
+  .vldt-installed .sr-only-focusable:active, .vldt-installed .sr-only-focusable:focus {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip: auto; }
+  .vldt-installed [role="button"] {
+    cursor: pointer; }
+  .vldt-installed .container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px; }
+    .vldt-installed .container:before, .vldt-installed .container:after {
+      content: " ";
+      display: table; }
+    .vldt-installed .container:after {
+      clear: both; }
+    @media (min-width: 768px) {
+      .vldt-installed .container {
+        width: 750px; } }
+    @media (min-width: 992px) {
+      .vldt-installed .container {
+        width: 970px; } }
+    @media (min-width: 1200px) {
+      .vldt-installed .container {
+        width: 1170px; } }
+  .vldt-installed .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px; }
+    .vldt-installed .container-fluid:before, .vldt-installed .container-fluid:after {
+      content: " ";
+      display: table; }
+    .vldt-installed .container-fluid:after {
+      clear: both; }
+  .vldt-installed .row {
+    margin-left: -15px;
+    margin-right: -15px; }
+    .vldt-installed .row:before, .vldt-installed .row:after {
+      content: " ";
+      display: table; }
+    .vldt-installed .row:after {
+      clear: both; }
+  .vldt-installed .col-xs-1, .vldt-installed .col-sm-1, .vldt-installed .col-md-1, .vldt-installed .col-lg-1, .vldt-installed .col-xs-2, .vldt-installed .col-sm-2, .vldt-installed .col-md-2, .vldt-installed .col-lg-2, .vldt-installed .col-xs-3, .vldt-installed .col-sm-3, .vldt-installed .col-md-3, .vldt-installed .col-lg-3, .vldt-installed .col-xs-4, .vldt-installed .col-sm-4, .vldt-installed .col-md-4, .vldt-installed .col-lg-4, .vldt-installed .col-xs-5, .vldt-installed .col-sm-5, .vldt-installed .col-md-5, .vldt-installed .col-lg-5, .vldt-installed .col-xs-6, .vldt-installed .col-sm-6, .vldt-installed .col-md-6, .vldt-installed .col-lg-6, .vldt-installed .col-xs-7, .vldt-installed .col-sm-7, .vldt-installed .col-md-7, .vldt-installed .col-lg-7, .vldt-installed .col-xs-8, .vldt-installed .col-sm-8, .vldt-installed .col-md-8, .vldt-installed .col-lg-8, .vldt-installed .col-xs-9, .vldt-installed .col-sm-9, .vldt-installed .col-md-9, .vldt-installed .col-lg-9, .vldt-installed .col-xs-10, .vldt-installed .col-sm-10, .vldt-installed .col-md-10, .vldt-installed .col-lg-10, .vldt-installed .col-xs-11, .vldt-installed .col-sm-11, .vldt-installed .col-md-11, .vldt-installed .col-lg-11, .vldt-installed .col-xs-12, .vldt-installed .col-sm-12, .vldt-installed .col-md-12, .vldt-installed .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px; }
+  .vldt-installed .col-xs-1, .vldt-installed .col-xs-2, .vldt-installed .col-xs-3, .vldt-installed .col-xs-4, .vldt-installed .col-xs-5, .vldt-installed .col-xs-6, .vldt-installed .col-xs-7, .vldt-installed .col-xs-8, .vldt-installed .col-xs-9, .vldt-installed .col-xs-10, .vldt-installed .col-xs-11, .vldt-installed .col-xs-12 {
+    float: left; }
+  .vldt-installed .col-xs-1 {
+    width: 8.33333%; }
+  .vldt-installed .col-xs-2 {
+    width: 16.66667%; }
+  .vldt-installed .col-xs-3 {
+    width: 25%; }
+  .vldt-installed .col-xs-4 {
+    width: 33.33333%; }
+  .vldt-installed .col-xs-5 {
+    width: 41.66667%; }
+  .vldt-installed .col-xs-6 {
+    width: 50%; }
+  .vldt-installed .col-xs-7 {
+    width: 58.33333%; }
+  .vldt-installed .col-xs-8 {
+    width: 66.66667%; }
+  .vldt-installed .col-xs-9 {
+    width: 75%; }
+  .vldt-installed .col-xs-10 {
+    width: 83.33333%; }
+  .vldt-installed .col-xs-11 {
+    width: 91.66667%; }
+  .vldt-installed .col-xs-12 {
+    width: 100%; }
+  .vldt-installed .col-xs-pull-0 {
+    right: auto; }
+  .vldt-installed .col-xs-pull-1 {
+    right: 8.33333%; }
+  .vldt-installed .col-xs-pull-2 {
+    right: 16.66667%; }
+  .vldt-installed .col-xs-pull-3 {
+    right: 25%; }
+  .vldt-installed .col-xs-pull-4 {
+    right: 33.33333%; }
+  .vldt-installed .col-xs-pull-5 {
+    right: 41.66667%; }
+  .vldt-installed .col-xs-pull-6 {
+    right: 50%; }
+  .vldt-installed .col-xs-pull-7 {
+    right: 58.33333%; }
+  .vldt-installed .col-xs-pull-8 {
+    right: 66.66667%; }
+  .vldt-installed .col-xs-pull-9 {
+    right: 75%; }
+  .vldt-installed .col-xs-pull-10 {
+    right: 83.33333%; }
+  .vldt-installed .col-xs-pull-11 {
+    right: 91.66667%; }
+  .vldt-installed .col-xs-pull-12 {
+    right: 100%; }
+  .vldt-installed .col-xs-push-0 {
+    left: auto; }
+  .vldt-installed .col-xs-push-1 {
+    left: 8.33333%; }
+  .vldt-installed .col-xs-push-2 {
+    left: 16.66667%; }
+  .vldt-installed .col-xs-push-3 {
+    left: 25%; }
+  .vldt-installed .col-xs-push-4 {
+    left: 33.33333%; }
+  .vldt-installed .col-xs-push-5 {
+    left: 41.66667%; }
+  .vldt-installed .col-xs-push-6 {
+    left: 50%; }
+  .vldt-installed .col-xs-push-7 {
+    left: 58.33333%; }
+  .vldt-installed .col-xs-push-8 {
+    left: 66.66667%; }
+  .vldt-installed .col-xs-push-9 {
+    left: 75%; }
+  .vldt-installed .col-xs-push-10 {
+    left: 83.33333%; }
+  .vldt-installed .col-xs-push-11 {
+    left: 91.66667%; }
+  .vldt-installed .col-xs-push-12 {
+    left: 100%; }
+  .vldt-installed .col-xs-offset-0 {
+    margin-left: 0%; }
+  .vldt-installed .col-xs-offset-1 {
+    margin-left: 8.33333%; }
+  .vldt-installed .col-xs-offset-2 {
+    margin-left: 16.66667%; }
+  .vldt-installed .col-xs-offset-3 {
+    margin-left: 25%; }
+  .vldt-installed .col-xs-offset-4 {
+    margin-left: 33.33333%; }
+  .vldt-installed .col-xs-offset-5 {
+    margin-left: 41.66667%; }
+  .vldt-installed .col-xs-offset-6 {
+    margin-left: 50%; }
+  .vldt-installed .col-xs-offset-7 {
+    margin-left: 58.33333%; }
+  .vldt-installed .col-xs-offset-8 {
+    margin-left: 66.66667%; }
+  .vldt-installed .col-xs-offset-9 {
+    margin-left: 75%; }
+  .vldt-installed .col-xs-offset-10 {
+    margin-left: 83.33333%; }
+  .vldt-installed .col-xs-offset-11 {
+    margin-left: 91.66667%; }
+  .vldt-installed .col-xs-offset-12 {
+    margin-left: 100%; }
+  @media (min-width: 768px) {
+    .vldt-installed .col-sm-1, .vldt-installed .col-sm-2, .vldt-installed .col-sm-3, .vldt-installed .col-sm-4, .vldt-installed .col-sm-5, .vldt-installed .col-sm-6, .vldt-installed .col-sm-7, .vldt-installed .col-sm-8, .vldt-installed .col-sm-9, .vldt-installed .col-sm-10, .vldt-installed .col-sm-11, .vldt-installed .col-sm-12 {
+      float: left; }
+    .vldt-installed .col-sm-1 {
+      width: 8.33333%; }
+    .vldt-installed .col-sm-2 {
+      width: 16.66667%; }
+    .vldt-installed .col-sm-3 {
+      width: 25%; }
+    .vldt-installed .col-sm-4 {
+      width: 33.33333%; }
+    .vldt-installed .col-sm-5 {
+      width: 41.66667%; }
+    .vldt-installed .col-sm-6 {
+      width: 50%; }
+    .vldt-installed .col-sm-7 {
+      width: 58.33333%; }
+    .vldt-installed .col-sm-8 {
+      width: 66.66667%; }
+    .vldt-installed .col-sm-9 {
+      width: 75%; }
+    .vldt-installed .col-sm-10 {
+      width: 83.33333%; }
+    .vldt-installed .col-sm-11 {
+      width: 91.66667%; }
+    .vldt-installed .col-sm-12 {
+      width: 100%; }
+    .vldt-installed .col-sm-pull-0 {
+      right: auto; }
+    .vldt-installed .col-sm-pull-1 {
+      right: 8.33333%; }
+    .vldt-installed .col-sm-pull-2 {
+      right: 16.66667%; }
+    .vldt-installed .col-sm-pull-3 {
+      right: 25%; }
+    .vldt-installed .col-sm-pull-4 {
+      right: 33.33333%; }
+    .vldt-installed .col-sm-pull-5 {
+      right: 41.66667%; }
+    .vldt-installed .col-sm-pull-6 {
+      right: 50%; }
+    .vldt-installed .col-sm-pull-7 {
+      right: 58.33333%; }
+    .vldt-installed .col-sm-pull-8 {
+      right: 66.66667%; }
+    .vldt-installed .col-sm-pull-9 {
+      right: 75%; }
+    .vldt-installed .col-sm-pull-10 {
+      right: 83.33333%; }
+    .vldt-installed .col-sm-pull-11 {
+      right: 91.66667%; }
+    .vldt-installed .col-sm-pull-12 {
+      right: 100%; }
+    .vldt-installed .col-sm-push-0 {
+      left: auto; }
+    .vldt-installed .col-sm-push-1 {
+      left: 8.33333%; }
+    .vldt-installed .col-sm-push-2 {
+      left: 16.66667%; }
+    .vldt-installed .col-sm-push-3 {
+      left: 25%; }
+    .vldt-installed .col-sm-push-4 {
+      left: 33.33333%; }
+    .vldt-installed .col-sm-push-5 {
+      left: 41.66667%; }
+    .vldt-installed .col-sm-push-6 {
+      left: 50%; }
+    .vldt-installed .col-sm-push-7 {
+      left: 58.33333%; }
+    .vldt-installed .col-sm-push-8 {
+      left: 66.66667%; }
+    .vldt-installed .col-sm-push-9 {
+      left: 75%; }
+    .vldt-installed .col-sm-push-10 {
+      left: 83.33333%; }
+    .vldt-installed .col-sm-push-11 {
+      left: 91.66667%; }
+    .vldt-installed .col-sm-push-12 {
+      left: 100%; }
+    .vldt-installed .col-sm-offset-0 {
+      margin-left: 0%; }
+    .vldt-installed .col-sm-offset-1 {
+      margin-left: 8.33333%; }
+    .vldt-installed .col-sm-offset-2 {
+      margin-left: 16.66667%; }
+    .vldt-installed .col-sm-offset-3 {
+      margin-left: 25%; }
+    .vldt-installed .col-sm-offset-4 {
+      margin-left: 33.33333%; }
+    .vldt-installed .col-sm-offset-5 {
+      margin-left: 41.66667%; }
+    .vldt-installed .col-sm-offset-6 {
+      margin-left: 50%; }
+    .vldt-installed .col-sm-offset-7 {
+      margin-left: 58.33333%; }
+    .vldt-installed .col-sm-offset-8 {
+      margin-left: 66.66667%; }
+    .vldt-installed .col-sm-offset-9 {
+      margin-left: 75%; }
+    .vldt-installed .col-sm-offset-10 {
+      margin-left: 83.33333%; }
+    .vldt-installed .col-sm-offset-11 {
+      margin-left: 91.66667%; }
+    .vldt-installed .col-sm-offset-12 {
+      margin-left: 100%; } }
+  @media (min-width: 992px) {
+    .vldt-installed .col-md-1, .vldt-installed .col-md-2, .vldt-installed .col-md-3, .vldt-installed .col-md-4, .vldt-installed .col-md-5, .vldt-installed .col-md-6, .vldt-installed .col-md-7, .vldt-installed .col-md-8, .vldt-installed .col-md-9, .vldt-installed .col-md-10, .vldt-installed .col-md-11, .vldt-installed .col-md-12 {
+      float: left; }
+    .vldt-installed .col-md-1 {
+      width: 8.33333%; }
+    .vldt-installed .col-md-2 {
+      width: 16.66667%; }
+    .vldt-installed .col-md-3 {
+      width: 25%; }
+    .vldt-installed .col-md-4 {
+      width: 33.33333%; }
+    .vldt-installed .col-md-5 {
+      width: 41.66667%; }
+    .vldt-installed .col-md-6 {
+      width: 50%; }
+    .vldt-installed .col-md-7 {
+      width: 58.33333%; }
+    .vldt-installed .col-md-8 {
+      width: 66.66667%; }
+    .vldt-installed .col-md-9 {
+      width: 75%; }
+    .vldt-installed .col-md-10 {
+      width: 83.33333%; }
+    .vldt-installed .col-md-11 {
+      width: 91.66667%; }
+    .vldt-installed .col-md-12 {
+      width: 100%; }
+    .vldt-installed .col-md-pull-0 {
+      right: auto; }
+    .vldt-installed .col-md-pull-1 {
+      right: 8.33333%; }
+    .vldt-installed .col-md-pull-2 {
+      right: 16.66667%; }
+    .vldt-installed .col-md-pull-3 {
+      right: 25%; }
+    .vldt-installed .col-md-pull-4 {
+      right: 33.33333%; }
+    .vldt-installed .col-md-pull-5 {
+      right: 41.66667%; }
+    .vldt-installed .col-md-pull-6 {
+      right: 50%; }
+    .vldt-installed .col-md-pull-7 {
+      right: 58.33333%; }
+    .vldt-installed .col-md-pull-8 {
+      right: 66.66667%; }
+    .vldt-installed .col-md-pull-9 {
+      right: 75%; }
+    .vldt-installed .col-md-pull-10 {
+      right: 83.33333%; }
+    .vldt-installed .col-md-pull-11 {
+      right: 91.66667%; }
+    .vldt-installed .col-md-pull-12 {
+      right: 100%; }
+    .vldt-installed .col-md-push-0 {
+      left: auto; }
+    .vldt-installed .col-md-push-1 {
+      left: 8.33333%; }
+    .vldt-installed .col-md-push-2 {
+      left: 16.66667%; }
+    .vldt-installed .col-md-push-3 {
+      left: 25%; }
+    .vldt-installed .col-md-push-4 {
+      left: 33.33333%; }
+    .vldt-installed .col-md-push-5 {
+      left: 41.66667%; }
+    .vldt-installed .col-md-push-6 {
+      left: 50%; }
+    .vldt-installed .col-md-push-7 {
+      left: 58.33333%; }
+    .vldt-installed .col-md-push-8 {
+      left: 66.66667%; }
+    .vldt-installed .col-md-push-9 {
+      left: 75%; }
+    .vldt-installed .col-md-push-10 {
+      left: 83.33333%; }
+    .vldt-installed .col-md-push-11 {
+      left: 91.66667%; }
+    .vldt-installed .col-md-push-12 {
+      left: 100%; }
+    .vldt-installed .col-md-offset-0 {
+      margin-left: 0%; }
+    .vldt-installed .col-md-offset-1 {
+      margin-left: 8.33333%; }
+    .vldt-installed .col-md-offset-2 {
+      margin-left: 16.66667%; }
+    .vldt-installed .col-md-offset-3 {
+      margin-left: 25%; }
+    .vldt-installed .col-md-offset-4 {
+      margin-left: 33.33333%; }
+    .vldt-installed .col-md-offset-5 {
+      margin-left: 41.66667%; }
+    .vldt-installed .col-md-offset-6 {
+      margin-left: 50%; }
+    .vldt-installed .col-md-offset-7 {
+      margin-left: 58.33333%; }
+    .vldt-installed .col-md-offset-8 {
+      margin-left: 66.66667%; }
+    .vldt-installed .col-md-offset-9 {
+      margin-left: 75%; }
+    .vldt-installed .col-md-offset-10 {
+      margin-left: 83.33333%; }
+    .vldt-installed .col-md-offset-11 {
+      margin-left: 91.66667%; }
+    .vldt-installed .col-md-offset-12 {
+      margin-left: 100%; } }
+  @media (min-width: 1200px) {
+    .vldt-installed .col-lg-1, .vldt-installed .col-lg-2, .vldt-installed .col-lg-3, .vldt-installed .col-lg-4, .vldt-installed .col-lg-5, .vldt-installed .col-lg-6, .vldt-installed .col-lg-7, .vldt-installed .col-lg-8, .vldt-installed .col-lg-9, .vldt-installed .col-lg-10, .vldt-installed .col-lg-11, .vldt-installed .col-lg-12 {
+      float: left; }
+    .vldt-installed .col-lg-1 {
+      width: 8.33333%; }
+    .vldt-installed .col-lg-2 {
+      width: 16.66667%; }
+    .vldt-installed .col-lg-3 {
+      width: 25%; }
+    .vldt-installed .col-lg-4 {
+      width: 33.33333%; }
+    .vldt-installed .col-lg-5 {
+      width: 41.66667%; }
+    .vldt-installed .col-lg-6 {
+      width: 50%; }
+    .vldt-installed .col-lg-7 {
+      width: 58.33333%; }
+    .vldt-installed .col-lg-8 {
+      width: 66.66667%; }
+    .vldt-installed .col-lg-9 {
+      width: 75%; }
+    .vldt-installed .col-lg-10 {
+      width: 83.33333%; }
+    .vldt-installed .col-lg-11 {
+      width: 91.66667%; }
+    .vldt-installed .col-lg-12 {
+      width: 100%; }
+    .vldt-installed .col-lg-pull-0 {
+      right: auto; }
+    .vldt-installed .col-lg-pull-1 {
+      right: 8.33333%; }
+    .vldt-installed .col-lg-pull-2 {
+      right: 16.66667%; }
+    .vldt-installed .col-lg-pull-3 {
+      right: 25%; }
+    .vldt-installed .col-lg-pull-4 {
+      right: 33.33333%; }
+    .vldt-installed .col-lg-pull-5 {
+      right: 41.66667%; }
+    .vldt-installed .col-lg-pull-6 {
+      right: 50%; }
+    .vldt-installed .col-lg-pull-7 {
+      right: 58.33333%; }
+    .vldt-installed .col-lg-pull-8 {
+      right: 66.66667%; }
+    .vldt-installed .col-lg-pull-9 {
+      right: 75%; }
+    .vldt-installed .col-lg-pull-10 {
+      right: 83.33333%; }
+    .vldt-installed .col-lg-pull-11 {
+      right: 91.66667%; }
+    .vldt-installed .col-lg-pull-12 {
+      right: 100%; }
+    .vldt-installed .col-lg-push-0 {
+      left: auto; }
+    .vldt-installed .col-lg-push-1 {
+      left: 8.33333%; }
+    .vldt-installed .col-lg-push-2 {
+      left: 16.66667%; }
+    .vldt-installed .col-lg-push-3 {
+      left: 25%; }
+    .vldt-installed .col-lg-push-4 {
+      left: 33.33333%; }
+    .vldt-installed .col-lg-push-5 {
+      left: 41.66667%; }
+    .vldt-installed .col-lg-push-6 {
+      left: 50%; }
+    .vldt-installed .col-lg-push-7 {
+      left: 58.33333%; }
+    .vldt-installed .col-lg-push-8 {
+      left: 66.66667%; }
+    .vldt-installed .col-lg-push-9 {
+      left: 75%; }
+    .vldt-installed .col-lg-push-10 {
+      left: 83.33333%; }
+    .vldt-installed .col-lg-push-11 {
+      left: 91.66667%; }
+    .vldt-installed .col-lg-push-12 {
+      left: 100%; }
+    .vldt-installed .col-lg-offset-0 {
+      margin-left: 0%; }
+    .vldt-installed .col-lg-offset-1 {
+      margin-left: 8.33333%; }
+    .vldt-installed .col-lg-offset-2 {
+      margin-left: 16.66667%; }
+    .vldt-installed .col-lg-offset-3 {
+      margin-left: 25%; }
+    .vldt-installed .col-lg-offset-4 {
+      margin-left: 33.33333%; }
+    .vldt-installed .col-lg-offset-5 {
+      margin-left: 41.66667%; }
+    .vldt-installed .col-lg-offset-6 {
+      margin-left: 50%; }
+    .vldt-installed .col-lg-offset-7 {
+      margin-left: 58.33333%; }
+    .vldt-installed .col-lg-offset-8 {
+      margin-left: 66.66667%; }
+    .vldt-installed .col-lg-offset-9 {
+      margin-left: 75%; }
+    .vldt-installed .col-lg-offset-10 {
+      margin-left: 83.33333%; }
+    .vldt-installed .col-lg-offset-11 {
+      margin-left: 91.66667%; }
+    .vldt-installed .col-lg-offset-12 {
+      margin-left: 100%; } }
+  .vldt-installed .alert {
+    padding: 15px;
+    margin-bottom: 22px;
+    border: 1px solid transparent;
+    border-radius: 4px; }
+    .vldt-installed .alert h4 {
+      margin-top: 0;
+      color: inherit; }
+    .vldt-installed .alert .alert-link {
+      font-weight: bold; }
+    .vldt-installed .alert > p,
+    .vldt-installed .alert > ul {
+      margin-bottom: 0; }
+    .vldt-installed .alert > p + p {
+      margin-top: 5px; }
+  .vldt-installed .alert-dismissable,
+  .vldt-installed .alert-dismissible {
+    padding-right: 35px; }
+    .vldt-installed .alert-dismissable .close,
+    .vldt-installed .alert-dismissible .close {
+      position: relative;
+      top: -2px;
+      right: -21px;
+      color: inherit; }
+  .vldt-installed .alert-success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #3c763d; }
+    .vldt-installed .alert-success hr {
+      border-top-color: #c9e2b3; }
+    .vldt-installed .alert-success .alert-link {
+      color: #2b542c; }
+  .vldt-installed .alert-info {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #31708f; }
+    .vldt-installed .alert-info hr {
+      border-top-color: #a6e1ec; }
+    .vldt-installed .alert-info .alert-link {
+      color: #245269; }
+  .vldt-installed .alert-warning {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #8a6d3b; }
+    .vldt-installed .alert-warning hr {
+      border-top-color: #f7e1b5; }
+    .vldt-installed .alert-warning .alert-link {
+      color: #66512c; }
+  .vldt-installed .alert-danger {
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442; }
+    .vldt-installed .alert-danger hr {
+      border-top-color: #e4b9c0; }
+    .vldt-installed .alert-danger .alert-link {
+      color: #843534; }
+  .vldt-installed fieldset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    min-width: 0; }
+  .vldt-installed legend {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 22px;
+    font-size: 21px;
+    line-height: inherit;
+    color: #333333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5; }
+  .vldt-installed label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold; }
+  .vldt-installed input[type="search"] {
+    box-sizing: border-box; }
+  .vldt-installed input[type="radio"],
+  .vldt-installed input[type="checkbox"] {
+    margin: 4px 0 0;
+    margin-top: 1px \9;
+    line-height: normal; }
+  .vldt-installed input[type="file"] {
+    display: block; }
+  .vldt-installed input[type="range"] {
+    display: block;
+    width: 100%; }
+  .vldt-installed select[multiple],
+  .vldt-installed select[size] {
+    height: auto; }
+  .vldt-installed input[type="file"]:focus,
+  .vldt-installed input[type="radio"]:focus,
+  .vldt-installed input[type="checkbox"]:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px; }
+  .vldt-installed output {
+    display: block;
+    padding-top: 7px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #1e3948; }
+  .vldt-installed .form-control {
+    display: block;
+    width: 100%;
+    height: 36px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #1e3948;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #dbdfe2;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s; }
+    .vldt-installed .form-control:focus {
+      border-color: #428ac9;
+      outline: 0;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(66, 138, 201, 0.6); }
+    .vldt-installed .form-control::-moz-placeholder {
+      color: #999;
+      opacity: 1; }
+    .vldt-installed .form-control:-ms-input-placeholder {
+      color: #999; }
+    .vldt-installed .form-control::-webkit-input-placeholder {
+      color: #999; }
+    .vldt-installed .form-control[disabled], .vldt-installed .form-control[readonly],
+    fieldset[disabled] .vldt-installed .form-control {
+      background-color: #f8f9fa;
+      opacity: 1; }
+    .vldt-installed .form-control[disabled],
+    fieldset[disabled] .vldt-installed .form-control {
+      cursor: not-allowed; }
+  .vldt-installed textarea.form-control {
+    height: auto; }
+  .vldt-installed input[type="search"] {
+    -webkit-appearance: none; }
+  @media screen and (-webkit-min-device-pixel-ratio: 0) {
+    .vldt-installed input[type="date"].form-control,
+    .vldt-installed input[type="time"].form-control,
+    .vldt-installed input[type="datetime-local"].form-control,
+    .vldt-installed input[type="month"].form-control {
+      line-height: 36px; }
+    .vldt-installed input[type="date"].input-sm,
+    .input-group-sm .vldt-installed input[type="date"],
+    .vldt-installed input[type="time"].input-sm,
+    .input-group-sm
+    .vldt-installed input[type="time"],
+    .vldt-installed input[type="datetime-local"].input-sm,
+    .input-group-sm
+    .vldt-installed input[type="datetime-local"],
+    .vldt-installed input[type="month"].input-sm,
+    .input-group-sm
+    .vldt-installed input[type="month"] {
+      line-height: 30px; }
+    .vldt-installed input[type="date"].input-lg,
+    .input-group-lg .vldt-installed input[type="date"],
+    .vldt-installed input[type="time"].input-lg,
+    .input-group-lg
+    .vldt-installed input[type="time"],
+    .vldt-installed input[type="datetime-local"].input-lg,
+    .input-group-lg
+    .vldt-installed input[type="datetime-local"],
+    .vldt-installed input[type="month"].input-lg,
+    .input-group-lg
+    .vldt-installed input[type="month"] {
+      line-height: 51px; } }
+  .vldt-installed .form-group {
+    margin-bottom: 15px; }
+  .vldt-installed .radio,
+  .vldt-installed .checkbox {
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px; }
+    .vldt-installed .radio label,
+    .vldt-installed .checkbox label {
+      min-height: 22px;
+      padding-left: 20px;
+      margin-bottom: 0;
+      font-weight: normal;
+      cursor: pointer; }
+  .vldt-installed .radio input[type="radio"],
+  .vldt-installed .radio-inline input[type="radio"],
+  .vldt-installed .checkbox input[type="checkbox"],
+  .vldt-installed .checkbox-inline input[type="checkbox"] {
+    position: absolute;
+    margin-left: -20px;
+    margin-top: 4px \9; }
+  .vldt-installed .radio + .radio,
+  .vldt-installed .checkbox + .checkbox {
+    margin-top: -5px; }
+  .vldt-installed .radio-inline,
+  .vldt-installed .checkbox-inline {
+    position: relative;
+    display: inline-block;
+    padding-left: 20px;
+    margin-bottom: 0;
+    vertical-align: middle;
+    font-weight: normal;
+    cursor: pointer; }
+  .vldt-installed .radio-inline + .radio-inline,
+  .vldt-installed .checkbox-inline + .checkbox-inline {
+    margin-top: 0;
+    margin-left: 10px; }
+  .vldt-installed input[type="radio"][disabled], .vldt-installed input[type="radio"].disabled,
+  fieldset[disabled] .vldt-installed input[type="radio"],
+  .vldt-installed input[type="checkbox"][disabled],
+  .vldt-installed input[type="checkbox"].disabled,
+  fieldset[disabled]
+  .vldt-installed input[type="checkbox"] {
+    cursor: not-allowed; }
+  .vldt-installed .radio-inline.disabled,
+  fieldset[disabled] .vldt-installed .radio-inline,
+  .vldt-installed .checkbox-inline.disabled,
+  fieldset[disabled]
+  .vldt-installed .checkbox-inline {
+    cursor: not-allowed; }
+  .vldt-installed .radio.disabled label,
+  fieldset[disabled] .vldt-installed .radio label,
+  .vldt-installed .checkbox.disabled label,
+  fieldset[disabled]
+  .vldt-installed .checkbox label {
+    cursor: not-allowed; }
+  .vldt-installed .form-control-static {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 0;
+    min-height: 36px; }
+    .vldt-installed .form-control-static.input-lg, .vldt-installed .form-control-static.input-sm {
+      padding-left: 0;
+      padding-right: 0; }
+  .vldt-installed .input-sm {
+    height: 30px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px; }
+  .vldt-installed select.input-sm {
+    height: 30px;
+    line-height: 30px; }
+  .vldt-installed textarea.input-sm,
+  .vldt-installed select[multiple].input-sm {
+    height: auto; }
+  .vldt-installed .form-group-sm .form-control {
+    height: 30px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px; }
+  .vldt-installed .form-group-sm select.form-control {
+    height: 30px;
+    line-height: 30px; }
+  .vldt-installed .form-group-sm textarea.form-control,
+  .vldt-installed .form-group-sm select[multiple].form-control {
+    height: auto; }
+  .vldt-installed .form-group-sm .form-control-static {
+    height: 30px;
+    min-height: 34px;
+    padding: 6px 10px;
+    font-size: 12px;
+    line-height: 1.5; }
+  .vldt-installed .input-lg {
+    height: 51px;
+    padding: 15px 20px;
+    font-size: 14px;
+    line-height: 1.33333;
+    border-radius: 6px; }
+  .vldt-installed select.input-lg {
+    height: 51px;
+    line-height: 51px; }
+  .vldt-installed textarea.input-lg,
+  .vldt-installed select[multiple].input-lg {
+    height: auto; }
+  .vldt-installed .form-group-lg .form-control {
+    height: 51px;
+    padding: 15px 20px;
+    font-size: 14px;
+    line-height: 1.33333;
+    border-radius: 6px; }
+  .vldt-installed .form-group-lg select.form-control {
+    height: 51px;
+    line-height: 51px; }
+  .vldt-installed .form-group-lg textarea.form-control,
+  .vldt-installed .form-group-lg select[multiple].form-control {
+    height: auto; }
+  .vldt-installed .form-group-lg .form-control-static {
+    height: 51px;
+    min-height: 36px;
+    padding: 16px 20px;
+    font-size: 14px;
+    line-height: 1.33333; }
+  .vldt-installed .has-feedback {
+    position: relative; }
+    .vldt-installed .has-feedback .form-control {
+      padding-right: 45px; }
+  .vldt-installed .form-control-feedback {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    display: block;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    pointer-events: none; }
+  .vldt-installed .input-lg + .form-control-feedback,
+  .vldt-installed .input-group-lg + .form-control-feedback,
+  .vldt-installed .form-group-lg .form-control + .form-control-feedback {
+    width: 51px;
+    height: 51px;
+    line-height: 51px; }
+  .vldt-installed .input-sm + .form-control-feedback,
+  .vldt-installed .input-group-sm + .form-control-feedback,
+  .vldt-installed .form-group-sm .form-control + .form-control-feedback {
+    width: 30px;
+    height: 30px;
+    line-height: 30px; }
+  .vldt-installed .has-success .help-block,
+  .vldt-installed .has-success .control-label,
+  .vldt-installed .has-success .radio,
+  .vldt-installed .has-success .checkbox,
+  .vldt-installed .has-success .radio-inline,
+  .vldt-installed .has-success .checkbox-inline,
+  .vldt-installed .has-success.radio label,
+  .vldt-installed .has-success.checkbox label,
+  .vldt-installed .has-success.radio-inline label,
+  .vldt-installed .has-success.checkbox-inline label {
+    color: #3c763d; }
+  .vldt-installed .has-success .form-control {
+    border-color: #3c763d;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); }
+    .vldt-installed .has-success .form-control:focus {
+      border-color: #2b542c;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #67b168; }
+  .vldt-installed .has-success .input-group-addon {
+    color: #3c763d;
+    border-color: #3c763d;
+    background-color: #dff0d8; }
+  .vldt-installed .has-success .form-control-feedback {
+    color: #3c763d; }
+  .vldt-installed .has-warning .help-block,
+  .vldt-installed .has-warning .control-label,
+  .vldt-installed .has-warning .radio,
+  .vldt-installed .has-warning .checkbox,
+  .vldt-installed .has-warning .radio-inline,
+  .vldt-installed .has-warning .checkbox-inline,
+  .vldt-installed .has-warning.radio label,
+  .vldt-installed .has-warning.checkbox label,
+  .vldt-installed .has-warning.radio-inline label,
+  .vldt-installed .has-warning.checkbox-inline label {
+    color: #8a6d3b; }
+  .vldt-installed .has-warning .form-control {
+    border-color: #8a6d3b;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); }
+    .vldt-installed .has-warning .form-control:focus {
+      border-color: #66512c;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #c0a16b; }
+  .vldt-installed .has-warning .input-group-addon {
+    color: #8a6d3b;
+    border-color: #8a6d3b;
+    background-color: #fcf8e3; }
+  .vldt-installed .has-warning .form-control-feedback {
+    color: #8a6d3b; }
+  .vldt-installed .has-error .help-block,
+  .vldt-installed .has-error .control-label,
+  .vldt-installed .has-error .radio,
+  .vldt-installed .has-error .checkbox,
+  .vldt-installed .has-error .radio-inline,
+  .vldt-installed .has-error .checkbox-inline,
+  .vldt-installed .has-error.radio label,
+  .vldt-installed .has-error.checkbox label,
+  .vldt-installed .has-error.radio-inline label,
+  .vldt-installed .has-error.checkbox-inline label {
+    color: #a94442; }
+  .vldt-installed .has-error .form-control {
+    border-color: #a94442;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); }
+    .vldt-installed .has-error .form-control:focus {
+      border-color: #843534;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ce8483; }
+  .vldt-installed .has-error .input-group-addon {
+    color: #a94442;
+    border-color: #a94442;
+    background-color: #f2dede; }
+  .vldt-installed .has-error .form-control-feedback {
+    color: #a94442; }
+  .vldt-installed .has-feedback label ~ .form-control-feedback {
+    top: 27px; }
+  .vldt-installed .has-feedback label.sr-only ~ .form-control-feedback {
+    top: 0; }
+  .vldt-installed .help-block {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #737373; }
+  @media (min-width: 768px) {
+    .vldt-installed .form-inline .form-group {
+      display: inline-block;
+      margin-bottom: 0;
+      vertical-align: middle; }
+    .vldt-installed .form-inline .form-control {
+      display: inline-block;
+      width: auto;
+      vertical-align: middle; }
+    .vldt-installed .form-inline .form-control-static {
+      display: inline-block; }
+    .vldt-installed .form-inline .input-group {
+      display: inline-table;
+      vertical-align: middle; }
+      .vldt-installed .form-inline .input-group .input-group-addon,
+      .vldt-installed .form-inline .input-group .input-group-btn,
+      .vldt-installed .form-inline .input-group .form-control {
+        width: auto; }
+    .vldt-installed .form-inline .input-group > .form-control {
+      width: 100%; }
+    .vldt-installed .form-inline .control-label {
+      margin-bottom: 0;
+      vertical-align: middle; }
+    .vldt-installed .form-inline .radio,
+    .vldt-installed .form-inline .checkbox {
+      display: inline-block;
+      margin-top: 0;
+      margin-bottom: 0;
+      vertical-align: middle; }
+      .vldt-installed .form-inline .radio label,
+      .vldt-installed .form-inline .checkbox label {
+        padding-left: 0; }
+    .vldt-installed .form-inline .radio input[type="radio"],
+    .vldt-installed .form-inline .checkbox input[type="checkbox"] {
+      position: relative;
+      margin-left: 0; }
+    .vldt-installed .form-inline .has-feedback .form-control-feedback {
+      top: 0; } }
+  .vldt-installed .form-horizontal .radio,
+  .vldt-installed .form-horizontal .checkbox,
+  .vldt-installed .form-horizontal .radio-inline,
+  .vldt-installed .form-horizontal .checkbox-inline {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 7px; }
+  .vldt-installed .form-horizontal .radio,
+  .vldt-installed .form-horizontal .checkbox {
+    min-height: 29px; }
+  .vldt-installed .form-horizontal .form-group {
+    margin-left: -15px;
+    margin-right: -15px; }
+    .vldt-installed .form-horizontal .form-group:before, .vldt-installed .form-horizontal .form-group:after {
+      content: " ";
+      display: table; }
+    .vldt-installed .form-horizontal .form-group:after {
+      clear: both; }
+  @media (min-width: 768px) {
+    .vldt-installed .form-horizontal .control-label {
+      text-align: right;
+      margin-bottom: 0;
+      padding-top: 7px; } }
+  .vldt-installed .form-horizontal .has-feedback .form-control-feedback {
+    right: 15px; }
+  @media (min-width: 768px) {
+    .vldt-installed .form-horizontal .form-group-lg .control-label {
+      padding-top: 21.0px;
+      font-size: 14px; } }
+  @media (min-width: 768px) {
+    .vldt-installed .form-horizontal .form-group-sm .control-label {
+      padding-top: 6px;
+      font-size: 12px; } }
+  .vldt-installed .btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.6;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
+    .vldt-installed .btn:focus, .vldt-installed .btn.focus, .vldt-installed .btn:active:focus, .vldt-installed .btn:active.focus, .vldt-installed .btn.active:focus, .vldt-installed .btn.active.focus {
+      outline: thin dotted;
+      outline: 5px auto -webkit-focus-ring-color;
+      outline-offset: -2px; }
+    .vldt-installed .btn:hover, .vldt-installed .btn:focus, .vldt-installed .btn.focus {
+      color: #333;
+      text-decoration: none; }
+    .vldt-installed .btn:active, .vldt-installed .btn.active {
+      outline: 0;
+      background-image: none;
+      box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125); }
+    .vldt-installed .btn.disabled, .vldt-installed .btn[disabled],
+    fieldset[disabled] .vldt-installed .btn {
+      cursor: not-allowed;
+      opacity: 0.65;
+      filter: alpha(opacity=65);
+      box-shadow: none; }
+  .vldt-installed a.btn.disabled,
+  fieldset[disabled] .vldt-installed a.btn {
+    pointer-events: none; }
+  .vldt-installed .btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #9aa6ad; }
+    .vldt-installed .btn-default:focus, .vldt-installed .btn-default.focus {
+      color: #333;
+      background-color: #e6e6e6;
+      border-color: #59666e; }
+    .vldt-installed .btn-default:hover {
+      color: #333;
+      background-color: #e6e6e6;
+      border-color: #788892; }
+    .vldt-installed .btn-default:active, .vldt-installed .btn-default.active,
+    .open > .vldt-installed .btn-default.dropdown-toggle {
+      color: #333;
+      background-color: #e6e6e6;
+      border-color: #788892; }
+      .vldt-installed .btn-default:active:hover, .vldt-installed .btn-default:active:focus, .vldt-installed .btn-default:active.focus, .vldt-installed .btn-default.active:hover, .vldt-installed .btn-default.active:focus, .vldt-installed .btn-default.active.focus,
+      .open > .vldt-installed .btn-default.dropdown-toggle:hover,
+      .open > .vldt-installed .btn-default.dropdown-toggle:focus,
+      .open > .vldt-installed .btn-default.dropdown-toggle.focus {
+        color: #333;
+        background-color: #d4d4d4;
+        border-color: #59666e; }
+    .vldt-installed .btn-default:active, .vldt-installed .btn-default.active,
+    .open > .vldt-installed .btn-default.dropdown-toggle {
+      background-image: none; }
+    .vldt-installed .btn-default.disabled, .vldt-installed .btn-default.disabled:hover, .vldt-installed .btn-default.disabled:focus, .vldt-installed .btn-default.disabled.focus, .vldt-installed .btn-default.disabled:active, .vldt-installed .btn-default.disabled.active, .vldt-installed .btn-default[disabled], .vldt-installed .btn-default[disabled]:hover, .vldt-installed .btn-default[disabled]:focus, .vldt-installed .btn-default[disabled].focus, .vldt-installed .btn-default[disabled]:active, .vldt-installed .btn-default[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-default,
+    fieldset[disabled] .vldt-installed .btn-default:hover,
+    fieldset[disabled] .vldt-installed .btn-default:focus,
+    fieldset[disabled] .vldt-installed .btn-default.focus,
+    fieldset[disabled] .vldt-installed .btn-default:active,
+    fieldset[disabled] .vldt-installed .btn-default.active {
+      background-color: #fff;
+      border-color: #9aa6ad; }
+    .vldt-installed .btn-default .badge {
+      color: #fff;
+      background-color: #333; }
+  .vldt-installed .btn-primary {
+    color: #fff;
+    background-color: #428ac9;
+    border-color: #428ac9; }
+    .vldt-installed .btn-primary:focus, .vldt-installed .btn-primary.focus {
+      color: #fff;
+      background-color: #3070a8;
+      border-color: #1f486d; }
+    .vldt-installed .btn-primary:hover {
+      color: #fff;
+      background-color: #3070a8;
+      border-color: #2e6ba0; }
+    .vldt-installed .btn-primary:active, .vldt-installed .btn-primary.active,
+    .open > .vldt-installed .btn-primary.dropdown-toggle {
+      color: #fff;
+      background-color: #3070a8;
+      border-color: #2e6ba0; }
+      .vldt-installed .btn-primary:active:hover, .vldt-installed .btn-primary:active:focus, .vldt-installed .btn-primary:active.focus, .vldt-installed .btn-primary.active:hover, .vldt-installed .btn-primary.active:focus, .vldt-installed .btn-primary.active.focus,
+      .open > .vldt-installed .btn-primary.dropdown-toggle:hover,
+      .open > .vldt-installed .btn-primary.dropdown-toggle:focus,
+      .open > .vldt-installed .btn-primary.dropdown-toggle.focus {
+        color: #fff;
+        background-color: #285d8c;
+        border-color: #1f486d; }
+    .vldt-installed .btn-primary:active, .vldt-installed .btn-primary.active,
+    .open > .vldt-installed .btn-primary.dropdown-toggle {
+      background-image: none; }
+    .vldt-installed .btn-primary.disabled, .vldt-installed .btn-primary.disabled:hover, .vldt-installed .btn-primary.disabled:focus, .vldt-installed .btn-primary.disabled.focus, .vldt-installed .btn-primary.disabled:active, .vldt-installed .btn-primary.disabled.active, .vldt-installed .btn-primary[disabled], .vldt-installed .btn-primary[disabled]:hover, .vldt-installed .btn-primary[disabled]:focus, .vldt-installed .btn-primary[disabled].focus, .vldt-installed .btn-primary[disabled]:active, .vldt-installed .btn-primary[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-primary,
+    fieldset[disabled] .vldt-installed .btn-primary:hover,
+    fieldset[disabled] .vldt-installed .btn-primary:focus,
+    fieldset[disabled] .vldt-installed .btn-primary.focus,
+    fieldset[disabled] .vldt-installed .btn-primary:active,
+    fieldset[disabled] .vldt-installed .btn-primary.active {
+      background-color: #428ac9;
+      border-color: #428ac9; }
+    .vldt-installed .btn-primary .badge {
+      color: #428ac9;
+      background-color: #fff; }
+  .vldt-installed .btn-success {
+    color: #fff;
+    background-color: #44b344;
+    border-color: #44b344; }
+    .vldt-installed .btn-success:focus, .vldt-installed .btn-success.focus {
+      color: #fff;
+      background-color: #368e36;
+      border-color: #215721; }
+    .vldt-installed .btn-success:hover {
+      color: #fff;
+      background-color: #368e36;
+      border-color: #338733; }
+    .vldt-installed .btn-success:active, .vldt-installed .btn-success.active,
+    .open > .vldt-installed .btn-success.dropdown-toggle {
+      color: #fff;
+      background-color: #368e36;
+      border-color: #338733; }
+      .vldt-installed .btn-success:active:hover, .vldt-installed .btn-success:active:focus, .vldt-installed .btn-success:active.focus, .vldt-installed .btn-success.active:hover, .vldt-installed .btn-success.active:focus, .vldt-installed .btn-success.active.focus,
+      .open > .vldt-installed .btn-success.dropdown-toggle:hover,
+      .open > .vldt-installed .btn-success.dropdown-toggle:focus,
+      .open > .vldt-installed .btn-success.dropdown-toggle.focus {
+        color: #fff;
+        background-color: #2c742c;
+        border-color: #215721; }
+    .vldt-installed .btn-success:active, .vldt-installed .btn-success.active,
+    .open > .vldt-installed .btn-success.dropdown-toggle {
+      background-image: none; }
+    .vldt-installed .btn-success.disabled, .vldt-installed .btn-success.disabled:hover, .vldt-installed .btn-success.disabled:focus, .vldt-installed .btn-success.disabled.focus, .vldt-installed .btn-success.disabled:active, .vldt-installed .btn-success.disabled.active, .vldt-installed .btn-success[disabled], .vldt-installed .btn-success[disabled]:hover, .vldt-installed .btn-success[disabled]:focus, .vldt-installed .btn-success[disabled].focus, .vldt-installed .btn-success[disabled]:active, .vldt-installed .btn-success[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-success,
+    fieldset[disabled] .vldt-installed .btn-success:hover,
+    fieldset[disabled] .vldt-installed .btn-success:focus,
+    fieldset[disabled] .vldt-installed .btn-success.focus,
+    fieldset[disabled] .vldt-installed .btn-success:active,
+    fieldset[disabled] .vldt-installed .btn-success.active {
+      background-color: #44b344;
+      border-color: #44b344; }
+    .vldt-installed .btn-success .badge {
+      color: #44b344;
+      background-color: #fff; }
+  .vldt-installed .btn-info {
+    color: #fff;
+    background-color: #3e9cb9;
+    border-color: #3e9cb9; }
+    .vldt-installed .btn-info:focus, .vldt-installed .btn-info.focus {
+      color: #fff;
+      background-color: #317c93;
+      border-color: #1e4b5a; }
+    .vldt-installed .btn-info:hover {
+      color: #fff;
+      background-color: #317c93;
+      border-color: #2f758b; }
+    .vldt-installed .btn-info:active, .vldt-installed .btn-info.active,
+    .open > .vldt-installed .btn-info.dropdown-toggle {
+      color: #fff;
+      background-color: #317c93;
+      border-color: #2f758b; }
+      .vldt-installed .btn-info:active:hover, .vldt-installed .btn-info:active:focus, .vldt-installed .btn-info:active.focus, .vldt-installed .btn-info.active:hover, .vldt-installed .btn-info.active:focus, .vldt-installed .btn-info.active.focus,
+      .open > .vldt-installed .btn-info.dropdown-toggle:hover,
+      .open > .vldt-installed .btn-info.dropdown-toggle:focus,
+      .open > .vldt-installed .btn-info.dropdown-toggle.focus {
+        color: #fff;
+        background-color: #286578;
+        border-color: #1e4b5a; }
+    .vldt-installed .btn-info:active, .vldt-installed .btn-info.active,
+    .open > .vldt-installed .btn-info.dropdown-toggle {
+      background-image: none; }
+    .vldt-installed .btn-info.disabled, .vldt-installed .btn-info.disabled:hover, .vldt-installed .btn-info.disabled:focus, .vldt-installed .btn-info.disabled.focus, .vldt-installed .btn-info.disabled:active, .vldt-installed .btn-info.disabled.active, .vldt-installed .btn-info[disabled], .vldt-installed .btn-info[disabled]:hover, .vldt-installed .btn-info[disabled]:focus, .vldt-installed .btn-info[disabled].focus, .vldt-installed .btn-info[disabled]:active, .vldt-installed .btn-info[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-info,
+    fieldset[disabled] .vldt-installed .btn-info:hover,
+    fieldset[disabled] .vldt-installed .btn-info:focus,
+    fieldset[disabled] .vldt-installed .btn-info.focus,
+    fieldset[disabled] .vldt-installed .btn-info:active,
+    fieldset[disabled] .vldt-installed .btn-info.active {
+      background-color: #3e9cb9;
+      border-color: #3e9cb9; }
+    .vldt-installed .btn-info .badge {
+      color: #3e9cb9;
+      background-color: #fff; }
+  .vldt-installed .btn-warning {
+    color: #fff;
+    background-color: #d78b20;
+    border-color: #d78b20; }
+    .vldt-installed .btn-warning:focus, .vldt-installed .btn-warning.focus {
+      color: #fff;
+      background-color: #ab6e19;
+      border-color: #68430f; }
+    .vldt-installed .btn-warning:hover {
+      color: #fff;
+      background-color: #ab6e19;
+      border-color: #a26918; }
+    .vldt-installed .btn-warning:active, .vldt-installed .btn-warning.active,
+    .open > .vldt-installed .btn-warning.dropdown-toggle {
+      color: #fff;
+      background-color: #ab6e19;
+      border-color: #a26918; }
+      .vldt-installed .btn-warning:active:hover, .vldt-installed .btn-warning:active:focus, .vldt-installed .btn-warning:active.focus, .vldt-installed .btn-warning.active:hover, .vldt-installed .btn-warning.active:focus, .vldt-installed .btn-warning.active.focus,
+      .open > .vldt-installed .btn-warning.dropdown-toggle:hover,
+      .open > .vldt-installed .btn-warning.dropdown-toggle:focus,
+      .open > .vldt-installed .btn-warning.dropdown-toggle.focus {
+        color: #fff;
+        background-color: #8c5a15;
+        border-color: #68430f; }
+    .vldt-installed .btn-warning:active, .vldt-installed .btn-warning.active,
+    .open > .vldt-installed .btn-warning.dropdown-toggle {
+      background-image: none; }
+    .vldt-installed .btn-warning.disabled, .vldt-installed .btn-warning.disabled:hover, .vldt-installed .btn-warning.disabled:focus, .vldt-installed .btn-warning.disabled.focus, .vldt-installed .btn-warning.disabled:active, .vldt-installed .btn-warning.disabled.active, .vldt-installed .btn-warning[disabled], .vldt-installed .btn-warning[disabled]:hover, .vldt-installed .btn-warning[disabled]:focus, .vldt-installed .btn-warning[disabled].focus, .vldt-installed .btn-warning[disabled]:active, .vldt-installed .btn-warning[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-warning,
+    fieldset[disabled] .vldt-installed .btn-warning:hover,
+    fieldset[disabled] .vldt-installed .btn-warning:focus,
+    fieldset[disabled] .vldt-installed .btn-warning.focus,
+    fieldset[disabled] .vldt-installed .btn-warning:active,
+    fieldset[disabled] .vldt-installed .btn-warning.active {
+      background-color: #d78b20;
+      border-color: #d78b20; }
+    .vldt-installed .btn-warning .badge {
+      color: #d78b20;
+      background-color: #fff; }
+  .vldt-installed .btn-danger {
+    color: #fff;
+    background-color: #c73530;
+    border-color: #c73530; }
+    .vldt-installed .btn-danger:focus, .vldt-installed .btn-danger.focus {
+      color: #fff;
+      background-color: #9e2a26;
+      border-color: #601a17; }
+    .vldt-installed .btn-danger:hover {
+      color: #fff;
+      background-color: #9e2a26;
+      border-color: #962824; }
+    .vldt-installed .btn-danger:active, .vldt-installed .btn-danger.active,
+    .open > .vldt-installed .btn-danger.dropdown-toggle {
+      color: #fff;
+      background-color: #9e2a26;
+      border-color: #962824; }
+      .vldt-installed .btn-danger:active:hover, .vldt-installed .btn-danger:active:focus, .vldt-installed .btn-danger:active.focus, .vldt-installed .btn-danger.active:hover, .vldt-installed .btn-danger.active:focus, .vldt-installed .btn-danger.active.focus,
+      .open > .vldt-installed .btn-danger.dropdown-toggle:hover,
+      .open > .vldt-installed .btn-danger.dropdown-toggle:focus,
+      .open > .vldt-installed .btn-danger.dropdown-toggle.focus {
+        color: #fff;
+        background-color: #81221f;
+        border-color: #601a17; }
+    .vldt-installed .btn-danger:active, .vldt-installed .btn-danger.active,
+    .open > .vldt-installed .btn-danger.dropdown-toggle {
+      background-image: none; }
+    .vldt-installed .btn-danger.disabled, .vldt-installed .btn-danger.disabled:hover, .vldt-installed .btn-danger.disabled:focus, .vldt-installed .btn-danger.disabled.focus, .vldt-installed .btn-danger.disabled:active, .vldt-installed .btn-danger.disabled.active, .vldt-installed .btn-danger[disabled], .vldt-installed .btn-danger[disabled]:hover, .vldt-installed .btn-danger[disabled]:focus, .vldt-installed .btn-danger[disabled].focus, .vldt-installed .btn-danger[disabled]:active, .vldt-installed .btn-danger[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-danger,
+    fieldset[disabled] .vldt-installed .btn-danger:hover,
+    fieldset[disabled] .vldt-installed .btn-danger:focus,
+    fieldset[disabled] .vldt-installed .btn-danger.focus,
+    fieldset[disabled] .vldt-installed .btn-danger:active,
+    fieldset[disabled] .vldt-installed .btn-danger.active {
+      background-color: #c73530;
+      border-color: #c73530; }
+    .vldt-installed .btn-danger .badge {
+      color: #c73530;
+      background-color: #fff; }
+  .vldt-installed .btn-link {
+    color: #428ac9;
+    font-weight: normal;
+    border-radius: 0; }
+    .vldt-installed .btn-link, .vldt-installed .btn-link:active, .vldt-installed .btn-link.active, .vldt-installed .btn-link[disabled],
+    fieldset[disabled] .vldt-installed .btn-link {
+      background-color: transparent;
+      box-shadow: none; }
+    .vldt-installed .btn-link, .vldt-installed .btn-link:hover, .vldt-installed .btn-link:focus, .vldt-installed .btn-link:active {
+      border-color: transparent; }
+    .vldt-installed .btn-link:hover, .vldt-installed .btn-link:focus {
+      color: #2a6394;
+      text-decoration: underline;
+      background-color: transparent; }
+    .vldt-installed .btn-link[disabled]:hover, .vldt-installed .btn-link[disabled]:focus,
+    fieldset[disabled] .vldt-installed .btn-link:hover,
+    fieldset[disabled] .vldt-installed .btn-link:focus {
+      color: #777777;
+      text-decoration: none; }
+  .vldt-installed .btn-lg {
+    padding: 15px 20px;
+    font-size: 14px;
+    line-height: 1.33333;
+    border-radius: 6px; }
+  .vldt-installed .btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px; }
+  .vldt-installed .btn-xs {
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px; }
+  .vldt-installed .btn-block {
+    display: block;
+    width: 100%; }
+  .vldt-installed .btn-block + .btn-block {
+    margin-top: 5px; }
+  .vldt-installed input[type="submit"].btn-block,
+  .vldt-installed input[type="reset"].btn-block,
+  .vldt-installed input[type="button"].btn-block {
+    width: 100%; }
+  .vldt-installed .w-0 {
+    width: 0% !important; }
+  .vldt-installed .w-5 {
+    width: 5% !important; }
+  .vldt-installed .w-10 {
+    width: 10% !important; }
+  .vldt-installed .w-15 {
+    width: 15% !important; }
+  .vldt-installed .w-20 {
+    width: 20% !important; }
+  .vldt-installed .w-25 {
+    width: 25% !important; }
+  .vldt-installed .w-30 {
+    width: 30% !important; }
+  .vldt-installed .w-35 {
+    width: 35% !important; }
+  .vldt-installed .w-40 {
+    width: 40% !important; }
+  .vldt-installed .w-45 {
+    width: 45% !important; }
+  .vldt-installed .w-50 {
+    width: 50% !important; }
+  .vldt-installed .w-55 {
+    width: 55% !important; }
+  .vldt-installed .w-60 {
+    width: 60% !important; }
+  .vldt-installed .w-65 {
+    width: 65% !important; }
+  .vldt-installed .w-70 {
+    width: 70% !important; }
+  .vldt-installed .w-75 {
+    width: 75% !important; }
+  .vldt-installed .w-80 {
+    width: 80% !important; }
+  .vldt-installed .w-85 {
+    width: 85% !important; }
+  .vldt-installed .w-90 {
+    width: 90% !important; }
+  .vldt-installed .w-95 {
+    width: 95% !important; }
+  .vldt-installed .w-100 {
+    width: 100% !important; }
+  .vldt-installed .w-sm {
+    width: 25% !important; }
+  .vldt-installed .w-md {
+    width: 50% !important; }
+  .vldt-installed .w-lg {
+    width: 75% !important; }
+  .vldt-installed .w-full {
+    width: 100% !important; }
+  .vldt-installed .w-auto {
+    width: auto !important; }
+  .vldt-installed .p-t-0 {
+    padding-top: 0px !important; }
+  .vldt-installed .p-r-0 {
+    padding-right: 0px !important; }
+  .vldt-installed .p-l-0 {
+    padding-left: 0px !important; }
+  .vldt-installed .p-b-0 {
+    padding-bottom: 0px !important; }
+  .vldt-installed .p-a-0 {
+    padding: 0px !important; }
+  .vldt-installed .p-x-0 {
+    padding-left: 0px !important;
+    padding-right: 0px !important; }
+  .vldt-installed .p-y-0 {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important; }
+  .vldt-installed .p-t-5 {
+    padding-top: 5px !important; }
+  .vldt-installed .p-r-5 {
+    padding-right: 5px !important; }
+  .vldt-installed .p-l-5 {
+    padding-left: 5px !important; }
+  .vldt-installed .p-b-5 {
+    padding-bottom: 5px !important; }
+  .vldt-installed .p-a-5 {
+    padding: 5px !important; }
+  .vldt-installed .p-x-5 {
+    padding-left: 5px !important;
+    padding-right: 5px !important; }
+  .vldt-installed .p-y-5 {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important; }
+  .vldt-installed .p-t-10 {
+    padding-top: 10px !important; }
+  .vldt-installed .p-r-10 {
+    padding-right: 10px !important; }
+  .vldt-installed .p-l-10 {
+    padding-left: 10px !important; }
+  .vldt-installed .p-b-10 {
+    padding-bottom: 10px !important; }
+  .vldt-installed .p-a-10 {
+    padding: 10px !important; }
+  .vldt-installed .p-x-10 {
+    padding-left: 10px !important;
+    padding-right: 10px !important; }
+  .vldt-installed .p-y-10 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important; }
+  .vldt-installed .p-t-15 {
+    padding-top: 15px !important; }
+  .vldt-installed .p-r-15 {
+    padding-right: 15px !important; }
+  .vldt-installed .p-l-15 {
+    padding-left: 15px !important; }
+  .vldt-installed .p-b-15 {
+    padding-bottom: 15px !important; }
+  .vldt-installed .p-a-15 {
+    padding: 15px !important; }
+  .vldt-installed .p-x-15 {
+    padding-left: 15px !important;
+    padding-right: 15px !important; }
+  .vldt-installed .p-y-15 {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important; }
+  .vldt-installed .p-t-20 {
+    padding-top: 20px !important; }
+  .vldt-installed .p-r-20 {
+    padding-right: 20px !important; }
+  .vldt-installed .p-l-20 {
+    padding-left: 20px !important; }
+  .vldt-installed .p-b-20 {
+    padding-bottom: 20px !important; }
+  .vldt-installed .p-a-20 {
+    padding: 20px !important; }
+  .vldt-installed .p-x-20 {
+    padding-left: 20px !important;
+    padding-right: 20px !important; }
+  .vldt-installed .p-y-20 {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important; }
+  .vldt-installed .p-t-25 {
+    padding-top: 25px !important; }
+  .vldt-installed .p-r-25 {
+    padding-right: 25px !important; }
+  .vldt-installed .p-l-25 {
+    padding-left: 25px !important; }
+  .vldt-installed .p-b-25 {
+    padding-bottom: 25px !important; }
+  .vldt-installed .p-a-25 {
+    padding: 25px !important; }
+  .vldt-installed .p-x-25 {
+    padding-left: 25px !important;
+    padding-right: 25px !important; }
+  .vldt-installed .p-y-25 {
+    padding-top: 25px !important;
+    padding-bottom: 25px !important; }
+  .vldt-installed .p-t-30 {
+    padding-top: 30px !important; }
+  .vldt-installed .p-r-30 {
+    padding-right: 30px !important; }
+  .vldt-installed .p-l-30 {
+    padding-left: 30px !important; }
+  .vldt-installed .p-b-30 {
+    padding-bottom: 30px !important; }
+  .vldt-installed .p-a-30 {
+    padding: 30px !important; }
+  .vldt-installed .p-x-30 {
+    padding-left: 30px !important;
+    padding-right: 30px !important; }
+  .vldt-installed .p-y-30 {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important; }
+  .vldt-installed .p-t-35 {
+    padding-top: 35px !important; }
+  .vldt-installed .p-r-35 {
+    padding-right: 35px !important; }
+  .vldt-installed .p-l-35 {
+    padding-left: 35px !important; }
+  .vldt-installed .p-b-35 {
+    padding-bottom: 35px !important; }
+  .vldt-installed .p-a-35 {
+    padding: 35px !important; }
+  .vldt-installed .p-x-35 {
+    padding-left: 35px !important;
+    padding-right: 35px !important; }
+  .vldt-installed .p-y-35 {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important; }
+  .vldt-installed .p-t-40 {
+    padding-top: 40px !important; }
+  .vldt-installed .p-r-40 {
+    padding-right: 40px !important; }
+  .vldt-installed .p-l-40 {
+    padding-left: 40px !important; }
+  .vldt-installed .p-b-40 {
+    padding-bottom: 40px !important; }
+  .vldt-installed .p-a-40 {
+    padding: 40px !important; }
+  .vldt-installed .p-x-40 {
+    padding-left: 40px !important;
+    padding-right: 40px !important; }
+  .vldt-installed .p-y-40 {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important; }
+  .vldt-installed .p-t-45 {
+    padding-top: 45px !important; }
+  .vldt-installed .p-r-45 {
+    padding-right: 45px !important; }
+  .vldt-installed .p-l-45 {
+    padding-left: 45px !important; }
+  .vldt-installed .p-b-45 {
+    padding-bottom: 45px !important; }
+  .vldt-installed .p-a-45 {
+    padding: 45px !important; }
+  .vldt-installed .p-x-45 {
+    padding-left: 45px !important;
+    padding-right: 45px !important; }
+  .vldt-installed .p-y-45 {
+    padding-top: 45px !important;
+    padding-bottom: 45px !important; }
+  .vldt-installed .p-t-50 {
+    padding-top: 50px !important; }
+  .vldt-installed .p-r-50 {
+    padding-right: 50px !important; }
+  .vldt-installed .p-l-50 {
+    padding-left: 50px !important; }
+  .vldt-installed .p-b-50 {
+    padding-bottom: 50px !important; }
+  .vldt-installed .p-a-50 {
+    padding: 50px !important; }
+  .vldt-installed .p-x-50 {
+    padding-left: 50px !important;
+    padding-right: 50px !important; }
+  .vldt-installed .p-y-50 {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important; }
+  .vldt-installed .p-a-0 {
+    padding: 0 !important; }
+  .vldt-installed .p-t-0 {
+    padding-top: 0 !important; }
+  .vldt-installed .p-r-0 {
+    padding-right: 0 !important; }
+  .vldt-installed .p-b-0 {
+    padding-bottom: 0 !important; }
+  .vldt-installed .p-l-0 {
+    padding-left: 0 !important; }
+  .vldt-installed .p-x-0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+  .vldt-installed .p-y-0 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+  .vldt-installed .p-a {
+    padding: 20px !important; }
+  .vldt-installed .p-t {
+    padding-top: 20px !important; }
+  .vldt-installed .p-r {
+    padding-right: 20px !important; }
+  .vldt-installed .p-b {
+    padding-bottom: 20px !important; }
+  .vldt-installed .p-l {
+    padding-left: 20px !important; }
+  .vldt-installed .p-x {
+    padding-right: 20px !important;
+    padding-left: 20px !important; }
+  .vldt-installed .p-y {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important; }
+  .vldt-installed .p-a-md {
+    padding: 30px !important; }
+  .vldt-installed .p-t-md {
+    padding-top: 30px !important; }
+  .vldt-installed .p-r-md {
+    padding-right: 30px !important; }
+  .vldt-installed .p-b-md {
+    padding-bottom: 30px !important; }
+  .vldt-installed .p-l-md {
+    padding-left: 30px !important; }
+  .vldt-installed .p-x-md {
+    padding-right: 30px !important;
+    padding-left: 30px !important; }
+  .vldt-installed .p-y-md {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important; }
+  .vldt-installed .p-a-lg {
+    padding: 60px !important; }
+  .vldt-installed .p-t-lg {
+    padding-top: 60px !important; }
+  .vldt-installed .p-r-lg {
+    padding-right: 60px !important; }
+  .vldt-installed .p-b-lg {
+    padding-bottom: 60px !important; }
+  .vldt-installed .p-l-lg {
+    padding-left: 60px !important; }
+  .vldt-installed .p-x-lg {
+    padding-right: 60px !important;
+    padding-left: 60px !important; }
+  .vldt-installed .p-y-lg {
+    padding-top: 60px !important;
+    padding-bottom: 60px !important; }
+  .vldt-installed .m-t-0 {
+    margin-top: 0px !important; }
+  .vldt-installed .m-r-0 {
+    margin-right: 0px !important; }
+  .vldt-installed .m-l-0 {
+    margin-left: 0px !important; }
+  .vldt-installed .m-b-0 {
+    margin-bottom: 0px !important; }
+  .vldt-installed .m-a-0 {
+    margin: 0px !important; }
+  .vldt-installed .m-x-0 {
+    margin-left: 0px !important;
+    margin-right: 0px !important; }
+  .vldt-installed .m-y-0 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important; }
+  .vldt-installed .m-t-5 {
+    margin-top: 5px !important; }
+  .vldt-installed .m-r-5 {
+    margin-right: 5px !important; }
+  .vldt-installed .m-l-5 {
+    margin-left: 5px !important; }
+  .vldt-installed .m-b-5 {
+    margin-bottom: 5px !important; }
+  .vldt-installed .m-a-5 {
+    margin: 5px !important; }
+  .vldt-installed .m-x-5 {
+    margin-left: 5px !important;
+    margin-right: 5px !important; }
+  .vldt-installed .m-y-5 {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important; }
+  .vldt-installed .m-t-10 {
+    margin-top: 10px !important; }
+  .vldt-installed .m-r-10 {
+    margin-right: 10px !important; }
+  .vldt-installed .m-l-10 {
+    margin-left: 10px !important; }
+  .vldt-installed .m-b-10 {
+    margin-bottom: 10px !important; }
+  .vldt-installed .m-a-10 {
+    margin: 10px !important; }
+  .vldt-installed .m-x-10 {
+    margin-left: 10px !important;
+    margin-right: 10px !important; }
+  .vldt-installed .m-y-10 {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important; }
+  .vldt-installed .m-t-15 {
+    margin-top: 15px !important; }
+  .vldt-installed .m-r-15 {
+    margin-right: 15px !important; }
+  .vldt-installed .m-l-15 {
+    margin-left: 15px !important; }
+  .vldt-installed .m-b-15 {
+    margin-bottom: 15px !important; }
+  .vldt-installed .m-a-15 {
+    margin: 15px !important; }
+  .vldt-installed .m-x-15 {
+    margin-left: 15px !important;
+    margin-right: 15px !important; }
+  .vldt-installed .m-y-15 {
+    margin-top: 15px !important;
+    margin-bottom: 15px !important; }
+  .vldt-installed .m-t-20 {
+    margin-top: 20px !important; }
+  .vldt-installed .m-r-20 {
+    margin-right: 20px !important; }
+  .vldt-installed .m-l-20 {
+    margin-left: 20px !important; }
+  .vldt-installed .m-b-20 {
+    margin-bottom: 20px !important; }
+  .vldt-installed .m-a-20 {
+    margin: 20px !important; }
+  .vldt-installed .m-x-20 {
+    margin-left: 20px !important;
+    margin-right: 20px !important; }
+  .vldt-installed .m-y-20 {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important; }
+  .vldt-installed .m-t-25 {
+    margin-top: 25px !important; }
+  .vldt-installed .m-r-25 {
+    margin-right: 25px !important; }
+  .vldt-installed .m-l-25 {
+    margin-left: 25px !important; }
+  .vldt-installed .m-b-25 {
+    margin-bottom: 25px !important; }
+  .vldt-installed .m-a-25 {
+    margin: 25px !important; }
+  .vldt-installed .m-x-25 {
+    margin-left: 25px !important;
+    margin-right: 25px !important; }
+  .vldt-installed .m-y-25 {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important; }
+  .vldt-installed .m-t-30 {
+    margin-top: 30px !important; }
+  .vldt-installed .m-r-30 {
+    margin-right: 30px !important; }
+  .vldt-installed .m-l-30 {
+    margin-left: 30px !important; }
+  .vldt-installed .m-b-30 {
+    margin-bottom: 30px !important; }
+  .vldt-installed .m-a-30 {
+    margin: 30px !important; }
+  .vldt-installed .m-x-30 {
+    margin-left: 30px !important;
+    margin-right: 30px !important; }
+  .vldt-installed .m-y-30 {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important; }
+  .vldt-installed .m-t-35 {
+    margin-top: 35px !important; }
+  .vldt-installed .m-r-35 {
+    margin-right: 35px !important; }
+  .vldt-installed .m-l-35 {
+    margin-left: 35px !important; }
+  .vldt-installed .m-b-35 {
+    margin-bottom: 35px !important; }
+  .vldt-installed .m-a-35 {
+    margin: 35px !important; }
+  .vldt-installed .m-x-35 {
+    margin-left: 35px !important;
+    margin-right: 35px !important; }
+  .vldt-installed .m-y-35 {
+    margin-top: 35px !important;
+    margin-bottom: 35px !important; }
+  .vldt-installed .m-t-40 {
+    margin-top: 40px !important; }
+  .vldt-installed .m-r-40 {
+    margin-right: 40px !important; }
+  .vldt-installed .m-l-40 {
+    margin-left: 40px !important; }
+  .vldt-installed .m-b-40 {
+    margin-bottom: 40px !important; }
+  .vldt-installed .m-a-40 {
+    margin: 40px !important; }
+  .vldt-installed .m-x-40 {
+    margin-left: 40px !important;
+    margin-right: 40px !important; }
+  .vldt-installed .m-y-40 {
+    margin-top: 40px !important;
+    margin-bottom: 40px !important; }
+  .vldt-installed .m-t-45 {
+    margin-top: 45px !important; }
+  .vldt-installed .m-r-45 {
+    margin-right: 45px !important; }
+  .vldt-installed .m-l-45 {
+    margin-left: 45px !important; }
+  .vldt-installed .m-b-45 {
+    margin-bottom: 45px !important; }
+  .vldt-installed .m-a-45 {
+    margin: 45px !important; }
+  .vldt-installed .m-x-45 {
+    margin-left: 45px !important;
+    margin-right: 45px !important; }
+  .vldt-installed .m-y-45 {
+    margin-top: 45px !important;
+    margin-bottom: 45px !important; }
+  .vldt-installed .m-t-50 {
+    margin-top: 50px !important; }
+  .vldt-installed .m-r-50 {
+    margin-right: 50px !important; }
+  .vldt-installed .m-l-50 {
+    margin-left: 50px !important; }
+  .vldt-installed .m-b-50 {
+    margin-bottom: 50px !important; }
+  .vldt-installed .m-a-50 {
+    margin: 50px !important; }
+  .vldt-installed .m-x-50 {
+    margin-left: 50px !important;
+    margin-right: 50px !important; }
+  .vldt-installed .m-y-50 {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important; }
+  .vldt-installed .m-a-0 {
+    margin: 0 !important; }
+  .vldt-installed .m-t-0 {
+    margin-top: 0 !important; }
+  .vldt-installed .m-r-0 {
+    margin-right: 0 !important; }
+  .vldt-installed .m-b-0 {
+    margin-bottom: 0 !important; }
+  .vldt-installed .m-l-0 {
+    margin-left: 0 !important; }
+  .vldt-installed .m-x-0 {
+    margin-right: 0 !important;
+    margin-left: 0 !important; }
+  .vldt-installed .m-y-0 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; }
+  .vldt-installed .m-a {
+    margin: 20px !important; }
+  .vldt-installed .m-t {
+    margin-top: 20px !important; }
+  .vldt-installed .m-r {
+    margin-right: 20px !important; }
+  .vldt-installed .m-b {
+    margin-bottom: 20px !important; }
+  .vldt-installed .m-l {
+    margin-left: 20px !important; }
+  .vldt-installed .m-x {
+    margin-right: 20px !important;
+    margin-left: 20px !important; }
+  .vldt-installed .m-y {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important; }
+  .vldt-installed .m-x-auto {
+    margin-right: auto !important;
+    margin-left: auto !important; }
+  .vldt-installed .m-a-md {
+    margin: 30px !important; }
+  .vldt-installed .m-t-md {
+    margin-top: 30px !important; }
+  .vldt-installed .m-r-md {
+    margin-right: 30px !important; }
+  .vldt-installed .m-b-md {
+    margin-bottom: 30px !important; }
+  .vldt-installed .m-l-md {
+    margin-left: 30px !important; }
+  .vldt-installed .m-x-md {
+    margin-right: 30px !important;
+    margin-left: 30px !important; }
+  .vldt-installed .m-y-md {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important; }
+  .vldt-installed .m-a-lg {
+    margin: 60px !important; }
+  .vldt-installed .m-t-lg {
+    margin-top: 60px !important; }
+  .vldt-installed .m-r-lg {
+    margin-right: 60px !important; }
+  .vldt-installed .m-b-lg {
+    margin-bottom: 60px !important; }
+  .vldt-installed .m-l-lg {
+    margin-left: 60px !important; }
+  .vldt-installed .m-x-lg {
+    margin-right: 60px !important;
+    margin-left: 60px !important; }
+  .vldt-installed .m-y-lg {
+    margin-top: 60px !important;
+    margin-bottom: 60px !important; }
+  .vldt-installed .m-b-100 {
+    margin-bottom: 100px !important; }
+  .vldt-installed .pos-r {
+    position: relative !important; }
+  .vldt-installed .pos-a {
+    position: absolute !important; }
+  .vldt-installed .pos-f {
+    position: fixed !important; }
+  .vldt-installed .display-inline {
+    display: inline; }
+  .vldt-installed html {
+    height: 100%;
+    font-size: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%; }
+  .vldt-installed body {
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 0.01em;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-feature-settings: "kern" 1;
+    -moz-font-feature-settings: "kern" 1; }
+  .vldt-installed .text-sm {
+    font-size: 12px !important; }
+  .vldt-installed .text-md {
+    font-size: 13px !important; }
+  .vldt-installed .text-lg {
+    font-size: 16px !important; }
+  .vldt-installed .text-normal {
+    font-weight: normal; }
+  .vldt-installed .text-semi-bold {
+    font-weight: 600 !important; }
+  .vldt-installed .text-bold {
+    font-weight: bold !important; }
+  .vldt-installed .text-light {
+    font-weight: 300 !important; }
+  .vldt-installed .text-left {
+    text-align: left !important; }
+  .vldt-installed .text-right {
+    text-align: right !important; }
+  .vldt-installed .text-underline {
+    text-decoration: underline !important; }
+  .vldt-installed .text-uppercase, .vldt-installed .initialism {
+    text-transform: uppercase; }
+  .vldt-installed .text-lowercase {
+    text-transform: lowercase; }
+  .vldt-installed .text-capitalize {
+    text-transform: capitalize; }
+  .vldt-installed .btn-lead {
+    height: 60px;
+    font-size: 16px;
+    min-width: 240px;
+    font-weight: bold;
+    color: #428ac9;
+    padding: 19px;
+    border: none; }
+    .vldt-installed .btn-lead:hover, .vldt-installed .btn-lead:focus, .vldt-installed .btn-lead:active {
+      border: none; }
+  .vldt-installed .btn-error {
+    min-width: 250px; }
+  .vldt-installed .btn-default-outline {
+    color: #333;
+    background-color: transparent;
+    border-color: #333;
+    border-width: 1px; }
+    .vldt-installed .btn-default-outline:focus, .vldt-installed .btn-default-outline.focus, .vldt-installed .btn-default-outline:hover, .vldt-installed .btn-default-outline:active, .vldt-installed .btn-default-outline.active,
+    .vldt-installed .btn-default-outline .open > .dropdown-toggle {
+      color: #fff;
+      background-color: #333;
+      box-shadow: none; }
+    .vldt-installed .btn-default-outline.disabled, .vldt-installed .btn-default-outline.disabled:hover, .vldt-installed .btn-default-outline.disabled:focus, .vldt-installed .btn-default-outline.disabled.focus, .vldt-installed .btn-default-outline.disabled:active, .vldt-installed .btn-default-outline.disabled.active, .vldt-installed .btn-default-outline[disabled], .vldt-installed .btn-default-outline[disabled]:hover, .vldt-installed .btn-default-outline[disabled]:focus, .vldt-installed .btn-default-outline[disabled].focus, .vldt-installed .btn-default-outline[disabled]:active, .vldt-installed .btn-default-outline[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-default-outline,
+    fieldset[disabled] .vldt-installed .btn-default-outline:hover,
+    fieldset[disabled] .vldt-installed .btn-default-outline:focus,
+    fieldset[disabled] .vldt-installed .btn-default-outline.focus,
+    fieldset[disabled] .vldt-installed .btn-default-outline:active,
+    fieldset[disabled] .vldt-installed .btn-default-outline.active {
+      border-color: #333; }
+    .vldt-installed .btn-default-outline .badge {
+      color: #fff;
+      background-color: #333; }
+  .vldt-installed .btn-primary-outline {
+    color: #428ac9;
+    background-color: transparent;
+    border-color: #428ac9;
+    border-width: 1px; }
+    .vldt-installed .btn-primary-outline:focus, .vldt-installed .btn-primary-outline.focus, .vldt-installed .btn-primary-outline:hover, .vldt-installed .btn-primary-outline:active, .vldt-installed .btn-primary-outline.active,
+    .vldt-installed .btn-primary-outline .open > .dropdown-toggle {
+      color: #fff;
+      background-color: #428ac9;
+      box-shadow: none; }
+    .vldt-installed .btn-primary-outline.disabled, .vldt-installed .btn-primary-outline.disabled:hover, .vldt-installed .btn-primary-outline.disabled:focus, .vldt-installed .btn-primary-outline.disabled.focus, .vldt-installed .btn-primary-outline.disabled:active, .vldt-installed .btn-primary-outline.disabled.active, .vldt-installed .btn-primary-outline[disabled], .vldt-installed .btn-primary-outline[disabled]:hover, .vldt-installed .btn-primary-outline[disabled]:focus, .vldt-installed .btn-primary-outline[disabled].focus, .vldt-installed .btn-primary-outline[disabled]:active, .vldt-installed .btn-primary-outline[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-primary-outline,
+    fieldset[disabled] .vldt-installed .btn-primary-outline:hover,
+    fieldset[disabled] .vldt-installed .btn-primary-outline:focus,
+    fieldset[disabled] .vldt-installed .btn-primary-outline.focus,
+    fieldset[disabled] .vldt-installed .btn-primary-outline:active,
+    fieldset[disabled] .vldt-installed .btn-primary-outline.active {
+      border-color: #428ac9; }
+    .vldt-installed .btn-primary-outline .badge {
+      color: #fff;
+      background-color: #428ac9; }
+  .vldt-installed .btn-success-outline {
+    color: #44b344;
+    background-color: transparent;
+    border-color: #44b344;
+    border-width: 1px; }
+    .vldt-installed .btn-success-outline:focus, .vldt-installed .btn-success-outline.focus, .vldt-installed .btn-success-outline:hover, .vldt-installed .btn-success-outline:active, .vldt-installed .btn-success-outline.active,
+    .vldt-installed .btn-success-outline .open > .dropdown-toggle {
+      color: #fff;
+      background-color: #44b344;
+      box-shadow: none; }
+    .vldt-installed .btn-success-outline.disabled, .vldt-installed .btn-success-outline.disabled:hover, .vldt-installed .btn-success-outline.disabled:focus, .vldt-installed .btn-success-outline.disabled.focus, .vldt-installed .btn-success-outline.disabled:active, .vldt-installed .btn-success-outline.disabled.active, .vldt-installed .btn-success-outline[disabled], .vldt-installed .btn-success-outline[disabled]:hover, .vldt-installed .btn-success-outline[disabled]:focus, .vldt-installed .btn-success-outline[disabled].focus, .vldt-installed .btn-success-outline[disabled]:active, .vldt-installed .btn-success-outline[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-success-outline,
+    fieldset[disabled] .vldt-installed .btn-success-outline:hover,
+    fieldset[disabled] .vldt-installed .btn-success-outline:focus,
+    fieldset[disabled] .vldt-installed .btn-success-outline.focus,
+    fieldset[disabled] .vldt-installed .btn-success-outline:active,
+    fieldset[disabled] .vldt-installed .btn-success-outline.active {
+      border-color: #44b344; }
+    .vldt-installed .btn-success-outline .badge {
+      color: #fff;
+      background-color: #44b344; }
+  .vldt-installed .btn-info-outline {
+    color: #3e9cb9;
+    background-color: transparent;
+    border-color: #3e9cb9;
+    border-width: 1px; }
+    .vldt-installed .btn-info-outline:focus, .vldt-installed .btn-info-outline.focus, .vldt-installed .btn-info-outline:hover, .vldt-installed .btn-info-outline:active, .vldt-installed .btn-info-outline.active,
+    .vldt-installed .btn-info-outline .open > .dropdown-toggle {
+      color: #fff;
+      background-color: #3e9cb9;
+      box-shadow: none; }
+    .vldt-installed .btn-info-outline.disabled, .vldt-installed .btn-info-outline.disabled:hover, .vldt-installed .btn-info-outline.disabled:focus, .vldt-installed .btn-info-outline.disabled.focus, .vldt-installed .btn-info-outline.disabled:active, .vldt-installed .btn-info-outline.disabled.active, .vldt-installed .btn-info-outline[disabled], .vldt-installed .btn-info-outline[disabled]:hover, .vldt-installed .btn-info-outline[disabled]:focus, .vldt-installed .btn-info-outline[disabled].focus, .vldt-installed .btn-info-outline[disabled]:active, .vldt-installed .btn-info-outline[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-info-outline,
+    fieldset[disabled] .vldt-installed .btn-info-outline:hover,
+    fieldset[disabled] .vldt-installed .btn-info-outline:focus,
+    fieldset[disabled] .vldt-installed .btn-info-outline.focus,
+    fieldset[disabled] .vldt-installed .btn-info-outline:active,
+    fieldset[disabled] .vldt-installed .btn-info-outline.active {
+      border-color: #3e9cb9; }
+    .vldt-installed .btn-info-outline .badge {
+      color: #fff;
+      background-color: #3e9cb9; }
+  .vldt-installed .btn-warning-outline {
+    color: #d78b20;
+    background-color: transparent;
+    border-color: #d78b20;
+    border-width: 1px; }
+    .vldt-installed .btn-warning-outline:focus, .vldt-installed .btn-warning-outline.focus, .vldt-installed .btn-warning-outline:hover, .vldt-installed .btn-warning-outline:active, .vldt-installed .btn-warning-outline.active,
+    .vldt-installed .btn-warning-outline .open > .dropdown-toggle {
+      color: #fff;
+      background-color: #d78b20;
+      box-shadow: none; }
+    .vldt-installed .btn-warning-outline.disabled, .vldt-installed .btn-warning-outline.disabled:hover, .vldt-installed .btn-warning-outline.disabled:focus, .vldt-installed .btn-warning-outline.disabled.focus, .vldt-installed .btn-warning-outline.disabled:active, .vldt-installed .btn-warning-outline.disabled.active, .vldt-installed .btn-warning-outline[disabled], .vldt-installed .btn-warning-outline[disabled]:hover, .vldt-installed .btn-warning-outline[disabled]:focus, .vldt-installed .btn-warning-outline[disabled].focus, .vldt-installed .btn-warning-outline[disabled]:active, .vldt-installed .btn-warning-outline[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-warning-outline,
+    fieldset[disabled] .vldt-installed .btn-warning-outline:hover,
+    fieldset[disabled] .vldt-installed .btn-warning-outline:focus,
+    fieldset[disabled] .vldt-installed .btn-warning-outline.focus,
+    fieldset[disabled] .vldt-installed .btn-warning-outline:active,
+    fieldset[disabled] .vldt-installed .btn-warning-outline.active {
+      border-color: #d78b20; }
+    .vldt-installed .btn-warning-outline .badge {
+      color: #fff;
+      background-color: #d78b20; }
+  .vldt-installed .btn-danger-outline {
+    color: #c73530;
+    background-color: transparent;
+    border-color: #c73530;
+    border-width: 1px; }
+    .vldt-installed .btn-danger-outline:focus, .vldt-installed .btn-danger-outline.focus, .vldt-installed .btn-danger-outline:hover, .vldt-installed .btn-danger-outline:active, .vldt-installed .btn-danger-outline.active,
+    .vldt-installed .btn-danger-outline .open > .dropdown-toggle {
+      color: #fff;
+      background-color: #c73530;
+      box-shadow: none; }
+    .vldt-installed .btn-danger-outline.disabled, .vldt-installed .btn-danger-outline.disabled:hover, .vldt-installed .btn-danger-outline.disabled:focus, .vldt-installed .btn-danger-outline.disabled.focus, .vldt-installed .btn-danger-outline.disabled:active, .vldt-installed .btn-danger-outline.disabled.active, .vldt-installed .btn-danger-outline[disabled], .vldt-installed .btn-danger-outline[disabled]:hover, .vldt-installed .btn-danger-outline[disabled]:focus, .vldt-installed .btn-danger-outline[disabled].focus, .vldt-installed .btn-danger-outline[disabled]:active, .vldt-installed .btn-danger-outline[disabled].active,
+    fieldset[disabled] .vldt-installed .btn-danger-outline,
+    fieldset[disabled] .vldt-installed .btn-danger-outline:hover,
+    fieldset[disabled] .vldt-installed .btn-danger-outline:focus,
+    fieldset[disabled] .vldt-installed .btn-danger-outline.focus,
+    fieldset[disabled] .vldt-installed .btn-danger-outline:active,
+    fieldset[disabled] .vldt-installed .btn-danger-outline.active {
+      border-color: #c73530; }
+    .vldt-installed .btn-danger-outline .badge {
+      color: #fff;
+      background-color: #c73530; }
+  .vldt-installed .btn-pill {
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+    border-radius: 1000em; }
+  .vldt-installed .btn-square {
+    border-radius: 0; }
+  .vldt-installed .common-wrapper {
+    position: absolute;
+    background-position: center center;
+    width: 100%;
+    background-size: cover !important;
+    background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.35) 100%), url("chrome-extension://__MSG_@@extension_id__/assets/images/header.jpg") no-repeat center top;
+    background-attachment: fixed;
+    min-height: 100%;
+    height: auto;
+    transition: all 200ms; }
+  .vldt-installed .text-white {
+    color: #fff; }
+  .vldt-installed .common-wrapper.recorder-installed {
+    background: #f1f2f3; }
+    .vldt-installed .common-wrapper.recorder-installed h1, .vldt-installed .common-wrapper.recorder-installed p {
+      color: #727272; }
+  .vldt-installed .error-wrapper {
+    background: #000 !important; }
+    .vldt-installed .error-wrapper.upload {
+      background: rgba(0, 0, 0, 0.8) !important; }
+    .vldt-installed .error-wrapper p, .vldt-installed .error-wrapper h1, .vldt-installed .error-wrapper h2, .vldt-installed .error-wrapper h3, .vldt-installed .error-wrapper h4, .vldt-installed .error-wrapper h5, .vldt-installed .error-wrapper h6, .vldt-installed .error-wrapper span, .vldt-installed .error-wrapper b {
+      color: #fff !important; }
+  .vldt-installed .bg-grey {
+    background: #f2f4f6; }
+  .vldt-installed .btn-black {
+    background: #000;
+    border: none;
+    color: #fff; }
+    .vldt-installed .btn-black:hover, .vldt-installed .btn-black:active {
+      background: #000;
+      color: #fff;
+      border: none;
+      opacity: 0.8; }
+  .vldt-installed .meter {
+    height: 20px;
+    width: 100%;
+    position: relative;
+    background: #555;
+    border-radius: 20px; }
+    .vldt-installed .meter span {
+      display: block;
+      border-radius: 20px;
+      height: 20px;
+      position: relative;
+      overflow: hidden;
+      background-color: #44b344;
+      transition: all 300ms; }
+  .vldt-installed .btn-link-white {
+    color: #fff;
+    text-decoration: underline; }
+    .vldt-installed .btn-link-white:hover, .vldt-installed .btn-link-white:active, .vldt-installed .btn-link-white:visited {
+      color: #cccccc; }
+  .vldt-installed .inner-wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    padding: 50px;
+    height: auto;
+    text-align: center; }
+  .vldt-installed .bg-white {
+    background: #fff !important; }
+  .vldt-installed ::-webkit-scrollbar {
+    width: 5px; }
+  .vldt-installed ::-webkit-scrollbar-track {
+    border-radius: 10px; }
+  .vldt-installed ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2); }
+  .vldt-installed ::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(0, 0, 0, 0.1); }
+  .vldt-installed .container-flex {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    .vldt-installed .container-flex > div.content-flex {
+      width: 100vh;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center; }
+      .vldt-installed .container-flex > div.content-flex ul, .vldt-installed .container-flex > div.content-flex ol {
+        text-align: left; }
+  @media screen and (max-height: 730px) {
+    .vldt-installed .container-flex > div.content-flex {
+      width: 75vh; } }
+  .vldt-installed .sharing-strip-visible .container-flex {
+    min-height: auto; }
+    .vldt-installed .sharing-strip-visible .container-flex > div.content-flex {
+      width: 70vh; }
+    .vldt-installed .sharing-strip-visible .container-flex h2 {
+      font-size: 20px; }
+  .vldt-installed .welcome-msg-container {
+    width: 500px; }
+  .vldt-installed .inner-screen {
+    position: absolute;
+    top: 10vh;
+    left: 15vw;
+    width: 70vw;
+    height: auto;
+    text-align: center; }
+    .vldt-installed .inner-screen h1 {
+      color: #fff;
+      font-weight: bold;
+      font-size: 20vw; }
+  .vldt-installed .video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+    width: 100%; }
+  .vldt-installed .video-wrapper webview {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+  .vldt-installed .image-wrapper {
+    height: 355px;
+    overflow: hidden; }
+    .vldt-installed .image-wrapper img {
+      margin: 0 auto; }
+  .vldt-installed .common-wrapper + div {
+    height: 100vh;
+    overflow-y: auto; }
+  .vldt-installed .tutorial-image {
+    max-width: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100%; }
+  .vldt-installed .tutorial-image-popup {
+    background-image: url("data:image/png;base64,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");
+    height: 150px; }
+  .vldt-installed .tutorial-image-circle {
+    background-image: url("data:image/png;base64,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");
+    height: 150px; }
+  .vldt-installed .vldt-circle.tutorial {
+    left: calc(50% + 83px);
+    top: calc(50% - 80px);
+    transition: all 600ms !important;
+    z-index: 99999; }
+  .vldt-installed .vldt-circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-size: 50%;
+    background: #44b344;
+    color: #fff;
+    text-align: center;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.14), 0 4px 5px rgba(0, 0, 0, 0.28);
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+    z-index: 20;
+    transition: all 500ms; }
+    .vldt-installed .vldt-circle.moving {
+      pointer-events: none !important;
+      transition-property: none; }
+    .vldt-installed .vldt-circle:hover {
+      cursor: pointer;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.14), 0 8px 10px rgba(0, 0, 0, 0.28); }
+    .vldt-installed .vldt-circle .vldt-circle-text {
+      color: #fff;
+      text-align: center;
+      position: absolute;
+      text-transform: capitalize;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 14px;
+      left: 50%;
+      width: 60px;
+      padding: 0;
+      margin: 0;
+      line-height: 16px; }
+  .vldt-installed .circle-arrow {
+    position: fixed;
+    margin: 0;
+    z-index: 9999;
+    font-size: 2em; }
+  .vldt-installed .circle-arrow:before {
+    content: "\f061";
+    font-family: "FontAwesome";
+    color: #fff;
+    z-index: 9999; }
+  .vldt-installed .circle-arrow.destination:before {
+    color: #44b344; }
+  .vldt-installed .circle-arrow.top_left-context.top_right {
+    transform: rotate(0deg);
+    left: 120px;
+    top: 26px; }
+  .vldt-installed .circle-arrow.top_left-context.bottom_left {
+    transform: rotate(90deg);
+    left: 35px;
+    top: 120px; }
+  .vldt-installed .circle-arrow.top_left-context.bottom_right {
+    transform: rotate(45deg);
+    left: 120px;
+    top: 120px; }
+  .vldt-installed .circle-arrow.bottom_left-context.bottom_right {
+    transform: rotate(0deg);
+    left: 120px;
+    bottom: 25px; }
+  .vldt-installed .circle-arrow.bottom_left-context.top_left {
+    transform: rotate(270deg);
+    left: 35px;
+    bottom: 120px; }
+  .vldt-installed .circle-arrow.bottom_left-context.top_right {
+    transform: rotate(315deg);
+    left: 120px;
+    bottom: 120px; }
+  .vldt-installed .circle-arrow.top_right-context.top_left {
+    transform: rotate(-180deg);
+    right: 120px;
+    top: 26px; }
+  .vldt-installed .circle-arrow.top_right-context.bottom_right {
+    transform: rotate(90deg);
+    right: 35px;
+    top: 120px; }
+  .vldt-installed .circle-arrow.top_right-context.bottom_left {
+    transform: rotate(135deg);
+    right: 120px;
+    top: 120px; }
+  .vldt-installed .circle-arrow.bottom_right-context.bottom_left {
+    transform: rotate(-180deg);
+    right: 120px;
+    bottom: 26px; }
+  .vldt-installed .circle-arrow.bottom_right-context.top_right {
+    transform: rotate(270deg);
+    right: 35px;
+    bottom: 120px; }
+  .vldt-installed .circle-arrow.bottom_right-context.top_left {
+    transform: rotate(225deg);
+    right: 120px;
+    bottom: 120px; }
+  .vldt-installed .corner {
+    margin: 0;
+    width: 20px;
+    height: 20px;
+    border-color: #fff !important;
+    position: fixed;
+    z-index: 9999; }
+  .vldt-installed .corner.destination {
+    border-color: #44b344 !important; }
+  .vldt-installed .corner.top_left {
+    top: 20px;
+    left: 20px;
+    border-top: 5px solid;
+    border-left: 5px solid; }
+  .vldt-installed .corner.top_right {
+    top: 20px;
+    right: 20px;
+    border-top: 5px solid;
+    border-right: 5px solid; }
+  .vldt-installed .corner.bottom_right {
+    bottom: 20px;
+    right: 20px;
+    border-bottom: 5px solid;
+    border-right: 5px solid; }
+  .vldt-installed .corner.bottom_left {
+    bottom: 20px;
+    left: 20px;
+    border-bottom: 5px solid;
+    border-left: 5px solid; }
+  .vldt-installed .top-right .corner.top_right {
+    border-color: #44b344 !important; }
+  .vldt-installed .top-left .corner.top_left {
+    border-color: #44b344 !important; }
+  .vldt-installed .bottom-left .corner.bottom_left {
+    border-color: #44b344 !important; }
+  .vldt-installed .bottom-right .corner.bottom_right {
+    border-color: #44b344 !important; }
+  .vldt-installed .curr-top-right .corner.top_right {
+    display: none; }
+  .vldt-installed .curr-top-left .corner.top_left {
+    display: none; }
+  .vldt-installed .curr-bottom-left .corner.bottom_left {
+    display: none; }
+  .vldt-installed .curr-bottom-right .corner.bottom_right {
+    display: none; }
+  .vldt-installed .circle-arrow {
+    position: fixed;
+    margin: 0;
+    z-index: 9999;
+    font-size: 2em; }
+  .vldt-installed .circle-arrow:before {
+    content: "\f061";
+    font-family: "FontAwesome";
+    color: #fff;
+    z-index: 9999; }
+  .vldt-installed .top-left .circle-arrow.top_left:before {
+    color: #44b344 !important; }
+  .vldt-installed .top-right .circle-arrow.top_right:before {
+    color: #44b344 !important; }
+  .vldt-installed .bottom-left .circle-arrow.bottom_left:before {
+    color: #44b344 !important; }
+  .vldt-installed .bottom-right .circle-arrow.bottom_right:before {
+    color: #44b344 !important; }
+  .vldt-installed .curr-top-left .circle-arrow.top_right {
+    transform: rotate(0deg);
+    left: 120px;
+    top: 26px; }
+  .vldt-installed .curr-top-left .circle-arrow.bottom_left {
+    transform: rotate(90deg);
+    left: 35px;
+    top: 120px; }
+  .vldt-installed .curr-top-left .circle-arrow.bottom_right {
+    transform: rotate(45deg);
+    left: 120px;
+    top: 120px; }
+  .vldt-installed .curr-top-left .circle-arrow.top_left {
+    display: none; }
+  .vldt-installed .curr-bottom-left .circle-arrow.bottom_right {
+    transform: rotate(0deg);
+    left: 120px;
+    bottom: 25px; }
+  .vldt-installed .curr-bottom-left .circle-arrow.top_left {
+    transform: rotate(270deg);
+    left: 35px;
+    bottom: 120px; }
+  .vldt-installed .curr-bottom-left .circle-arrow.top_right {
+    transform: rotate(315deg);
+    left: 120px;
+    bottom: 120px; }
+  .vldt-installed .curr-bottom-left .circle-arrow.bottom_left {
+    display: none; }
+  .vldt-installed .curr-top-right .circle-arrow.top_left {
+    transform: rotate(-180deg);
+    right: 120px;
+    top: 26px; }
+  .vldt-installed .curr-top-right .circle-arrow.bottom_right {
+    transform: rotate(90deg);
+    right: 35px;
+    top: 120px; }
+  .vldt-installed .curr-top-right .circle-arrow.bottom_left {
+    transform: rotate(135deg);
+    right: 120px;
+    top: 120px; }
+  .vldt-installed .curr-top-right .circle-arrow.top_right {
+    display: none; }
+  .vldt-installed .curr-bottom-right .circle-arrow.bottom_left {
+    transform: rotate(-180deg);
+    right: 120px;
+    bottom: 26px; }
+  .vldt-installed .curr-bottom-right .circle-arrow.top_right {
+    transform: rotate(270deg);
+    right: 35px;
+    bottom: 120px; }
+  .vldt-installed .curr-bottom-right .circle-arrow.top_left {
+    transform: rotate(225deg);
+    right: 120px;
+    bottom: 120px; }
+  .vldt-installed .curr-bottom-right .circle-arrow.bottom_right {
+    display: none; }
+  .vldt-installed .vldt-popup {
+    position: absolute;
+    background: #fff;
+    width: 295px;
+    text-align: left;
+    background-clip: padding-box;
+    border: 2px solid #44b344;
+    border-radius: 6px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
+    color: #1e3948;
+    animation-duration: 700ms;
+    animation-fill-mode: both; }
+    .vldt-installed .vldt-popup header {
+      color: #a94442;
+      font-size: 14px;
+      text-align: left;
+      white-space: pre-line;
+      overflow: hidden; }
+      .vldt-installed .vldt-popup header img {
+        width: 20px;
+        margin-right: 5px;
+        margin-top: -3px; }
+      .vldt-installed .vldt-popup header i.fa-feed {
+        margin-top: 0px;
+        position: absolute;
+        margin-left: 0px;
+        transform: rotate(45deg); }
+      .vldt-installed .vldt-popup header i + span {
+        margin-left: 20px; }
+    .vldt-installed .vldt-popup p:last-child {
+      margin-bottom: 0; }
+    .vldt-installed .vldt-popup .vldt-popup-content {
+      max-height: 90vh;
+      overflow-y: auto; }
+    .vldt-installed .vldt-popup .common-wrapper,
+    .vldt-installed .vldt-popup .inner-wrapper {
+      all: unset !important; }
+    .vldt-installed .vldt-popup.tutorial {
+      left: calc(50% - 180px) !important;
+      top: calc(50% - 50px) !important; }
+  .vldt-installed .popup-box-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5); }
+    .vldt-installed .popup-box-wrapper .popup-box {
+      min-width: 300px;
+      min-height: 50px;
+      background: #fff;
+      border-radius: 5px; }
+      .vldt-installed .popup-box-wrapper .popup-box .btn {
+        width: 100px; }
+  .vldt-installed .questions-wrapper {
+    max-height: 90vh;
+    overflow-y: scroll;
+    width: 70vw;
+    max-width: 800px; }
+    .vldt-installed .questions-wrapper h3, .vldt-installed .questions-wrapper p {
+      color: #1e3948; }
+    .vldt-installed .questions-wrapper p {
+      font-size: 16px; }
+  .vldt-installed .btn-question {
+    margin-top: 15px;
+    margin-bottom: -15px; }
+  .vldt-installed .question-container-flex {
+    display: flex;
+    justify-content: space-around; }
+    .vldt-installed .question-container-flex .checkboxgroup.multi-line {
+      display: inline-block;
+      text-align: center;
+      margin-top: 0;
+      width: 25px; }
+    .vldt-installed .question-container-flex .checkboxgroup i {
+      margin-left: 0;
+      margin-top: -15px; }
+    .vldt-installed .question-container-flex span {
+      display: block; }
+    .vldt-installed .question-container-flex span.rating-label {
+      width: 120px;
+      word-break: break-word;
+      -webkit-hyphens: auto;
+          -ms-hyphens: auto;
+              hyphens: auto; }
+    .vldt-installed .question-container-flex .vldt-radio:first-child .rating-label {
+      text-align: left; }
+    .vldt-installed .question-container-flex .vldt-radio:last-child .rating-label {
+      transform: translateX(-95px);
+      text-align: right; }
+  .vldt-installed .question-container .checkboxgroup.multi-line {
+    display: block;
+    text-align: left;
+    margin-top: 10px; }
+  .vldt-installed .checkboxgroup label {
+    display: block;
+    margin-top: 10px;
+    color: #1e3948;
+    font-weight: normal; }
+  .vldt-installed .checkboxgroup.multi-line label {
+    display: inline;
+    margin-left: 8px;
+    cursor: pointer; }
+  .vldt-installed .popup .question-container-flex {
+    display: block; }
+    .vldt-installed .popup .question-container-flex span {
+      display: inline; }
+    .vldt-installed .popup .question-container-flex span.rating-label {
+      margin-left: 20px; }
+  .vldt-installed .popup .checkboxgroup.multi-line {
+    display: block;
+    text-align: left;
+    margin-top: 10px; }
+  .vldt-installed .radio-rating-label {
+    position: absolute;
+    transform: translateX(-50%);
+    margin-left: 5px !important; }
+  .vldt-installed .vldt-radio input[type="radio"] {
+    opacity: 0; }
+  .vldt-installed .vldt-radio input:checked + i {
+    border-color: #1e3948; }
+  .vldt-installed .vldt-radio input:checked + i:before {
+    position: absolute;
+    left: -1px;
+    width: 100%;
+    top: -2px;
+    text-align: center;
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: #1e3948; }
+  .vldt-installed .vldt-radio input[type="radio"] + i {
+    border-radius: 100%; }
+  .vldt-installed .vldt-radio input[type="radio"]:checked + i:before {
+    content: "\f058"; }
+  .vldt-installed .vldt-radio input[disabled] + i:before,
+  .vldt-installed fieldset[disabled] .vldt-radio input + i:before {
+    color: #1e3948; }
+  .vldt-installed .vldt-radio i {
+    width: 25px;
+    height: 25px;
+    line-height: 1;
+    border: 1px solid #2d566c;
+    background-color: #fff;
+    margin-left: -20px;
+    margin-top: -2px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 4px;
+    position: relative;
+    font-size: 12px; }
+  .vldt-installed .checkboxgroup.vldt-radio.multi-line i {
+    vertical-align: middle; }
+  .vldt-installed .browser-unsupported-wrapper {
+    text-align: center;
+    width: 80%;
+    margin: 40px auto; }
+    .vldt-installed .browser-unsupported-wrapper .powered {
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%); }
+    .vldt-installed .browser-unsupported-wrapper .img-width-fix-apple {
+      width: 85px;
+      margin-top: 20px;
+      margin-bottom: 35px;
+      margin-left: auto;
+      margin-right: auto; }
+    .vldt-installed .browser-unsupported-wrapper .img-width-fix-android {
+      width: 120px;
+      margin-top: 5px;
+      margin-bottom: 15px;
+      margin-left: auto;
+      margin-right: auto; }
+  .vldt-installed .nav-view-wrapper {
+    background: #f2f4f8;
+    padding: 10px;
+    min-height: 56px;
+    border-bottom: 1px solid #d3d6dc; }
+    .vldt-installed .nav-view-wrapper .nav-view {
+      display: flex; }
+      .vldt-installed .nav-view-wrapper .nav-view form {
+        width: 100%;
+        margin-left: 10px; }
+      .vldt-installed .nav-view-wrapper .nav-view button {
+        width: 40px; }
+  .vldt-installed .hardware-check {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    padding: 50px;
+    height: auto;
+    text-align: center; }
+    .vldt-installed .hardware-check h1, .vldt-installed .hardware-check p {
+      color: #fff; }
+    .vldt-installed .hardware-check .hardware-check-camera {
+      position: relative;
+      margin-left: 50%;
+      transform: translateX(-50%);
+      border-radius: 50%;
+      -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%); }
+      .vldt-installed .hardware-check .hardware-check-camera video {
+        position: absolute; }
+    .vldt-installed .hardware-check .hardware-check-camera-tooltip {
+      position: absolute;
+      top: -15px;
+      left: 50px;
+      width: 400px;
+      background: #fff;
+      font-size: 12px;
+      border-radius: 10px;
+      padding: 5px; }
+      .vldt-installed .hardware-check .hardware-check-camera-tooltip:after {
+        top: 100%;
+        left: 50%;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+        border-top-color: #fff;
+        border-width: 10px;
+        margin-left: -10px; }
+    .vldt-installed .hardware-check .hardware-check-mic {
+      position: relative; }
+    .vldt-installed .hardware-check .hardware-check-mic-bars {
+      position: relative;
+      height: 50px;
+      left: 50%;
+      margin-bottom: 30px;
+      margin-top: 30px;
+      margin-left: -35px; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars.animate-sound .mic-bar {
+        animation: sound 0ms -800ms linear infinite alternate; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar {
+        background: #fff;
+        bottom: 1px;
+        height: 3px;
+        position: absolute;
+        width: 5px; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(1) {
+        left: 1px;
+        animation-duration: 474ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(2) {
+        left: 8px;
+        animation-duration: 433ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(3) {
+        left: 15px;
+        animation-duration: 407ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(4) {
+        left: 22px;
+        animation-duration: 458ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(5) {
+        left: 29px;
+        animation-duration: 400ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(6) {
+        left: 36px;
+        animation-duration: 427ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(7) {
+        left: 43px;
+        animation-duration: 441ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(8) {
+        left: 50px;
+        animation-duration: 419ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(9) {
+        left: 57px;
+        animation-duration: 487ms; }
+      .vldt-installed .hardware-check .hardware-check-mic-bars .mic-bar:nth-child(10) {
+        left: 64px;
+        animation-duration: 442ms; }
+  .vldt-installed .animated {
+    animation-duration: 1s;
+    animation-fill-mode: both; }
+  .vldt-installed .animated.slow {
+    animation-duration: 2s;
+    animation-fill-mode: both; }
+  .vldt-installed .animated.infinite {
+    animation-iteration-count: infinite; }
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0); }
+  to {
+    opacity: 1;
+    transform: none; } }
+
+@keyframes sound {
+  0% {
+    opacity: .35;
+    height: 3px; }
+  100% {
+    opacity: 1;
+    height: 50px; } }
+  .vldt-installed .fadeInUp {
+    animation-name: fadeInUp; }
+
+@keyframes pulse {
+  from {
+    transform: scale3d(1, 1, 1); }
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05); }
+  to {
+    transform: scale3d(1, 1, 1); } }
+  .vldt-installed .pulse {
+    animation-name: pulse; }
+
+@keyframes recording {
+  0%,
+  100% {
+    opacity: 1; }
+  50% {
+    opacity: 0; } }
+
+@keyframes flash {
+  from,
+  50%,
+  to {
+    opacity: 1; }
+  25%,
+  75% {
+    opacity: 0; } }
+  .vldt-installed .flash {
+    animation-name: flash; }
+  .vldt-installed .form-control.form-text {
+    height: 45px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    padding: 0 14px;
+    box-shadow: none; }
+    .vldt-installed .form-control.form-text:focus {
+      border: 1px solid #428ac9;
+      box-shadow: none; }
+  .vldt-installed .form-control {
+    border: 1px solid rgba(0, 0, 0, 0.15); }
+    .vldt-installed .form-control:focus {
+      border: 1px solid #428ac9;
+      box-shadow: none; }
+  .vldt-installed .form-control.form-text.has-success {
+    border: 1px solid #44b344; }
+  .vldt-installed .form-control.form-text.has-error {
+    border: 1px solid #a94442; }
+
+/*# sourceMappingURL=unmoderated-extension.css.map */

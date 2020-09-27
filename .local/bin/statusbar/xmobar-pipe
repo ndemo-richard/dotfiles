@@ -1,0 +1,76 @@
+#!/bin/sh
+
+
+_time=/tmp/CDT
+[[ -S $_time ]] || mkfifo $_time
+
+_battery_status=/tmp/BAT
+[[ -S $_battery_status ]] || mkfifo $_battery_status
+
+_weather=/tmp/WI
+[[ -S $_weather ]] || mkfifo $_weather
+
+
+_network_status=/tmp/NT
+[[ -S $_network_status ]] || mkfifo $_network_status
+
+_internet=/tmp/NC
+[[ -S $_internet ]] || mkfifo $_internet
+
+
+_cpu=/tmp/CU
+[[ -S $_cpu ]] || mkfifo $_cpu
+
+
+_ram=/tmp/MU
+[[ -S $_ram ]] || mkfifo $_ram
+
+_disk=/tmp/RU
+[[ -S $_disk ]] || mkfifo $_disk
+
+_volume_status=/tmp/VOL
+[[ -S $_volume_status ]] || mkfifo $_volume_status
+
+
+#_all_temp=/tmp/TA
+#[[ -S $_all_temp ]] || mkfifo $_all_temp
+
+#_network_traffic=/tmp/TS
+#[[ -S $_network_traffic ]] || mkfifo $_network_traffic
+
+#_daily_traffic=/tmp/DT
+#[[ -S $_daily_traffic ]] || mkfifo $_daily_traffic
+#_temp=/tmp/CT
+#[[ -S $_temp ]] || mkfifo $_temp
+
+#_updates=/tmp/UP
+#[[ -S $_updates ]] || mkfifo $_updates
+
+
+#_volume_level=/tmp/VL
+#[[ -S $_volume_level ]] || mkfifo $_volume_level
+
+#_playback=/tmp/PL
+#[[ -S $_playback ]] || mkfifo $_playback
+
+#mpd=/tmp/PS
+#[[ -S $_mpd ]] || mkfifo $_mpd
+
+#_soundcloud=/tmp/SC
+#internet[[ -S $_soundcloud ]] || mkfifo $_soundcloud
+
+#_uptime=/tmp/UT
+#[[ -S $_uptime ]] || mkfifo $_uptime
+
+#_minimized_windows=/tmp/MW
+#[[ -S $_minimized_windows ]] || mkfifo $_minimized_windows
+
+#current data and time
+
+#this i dont know
+#_chu=/tmp/ChU
+#[[ -S $_chu ]] || mkfifo $_chu
+
+#_Condition=/tmp/condition
+#[[ -S $_Condition ]] || mkfifo $_Condition
+

@@ -1,0 +1,15 @@
+2020/09/27-16:38:08.803 6a2 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-16:38:08.804 6a2 Recovering log #51
+2020/09/27-16:38:08.804 6a2 Reusing old log /home/ndemo/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000051.log 
+2020/09/27-16:39:06.901 6db Level-0 table #56: started
+2020/09/27-16:39:06.969 6db Level-0 table #56: 134698 bytes OK
+2020/09/27-16:39:07.007 6db Delete type=0 #51
+2020/09/27-16:39:07.008 6db Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/27-16:39:07.008 6db Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01E\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00?\x00t\x00a\x00b\x00=\x00r\x00m\x00&\x00o\x00g\x00b\x00l' @ 12322 : 1
+2020/09/27-16:39:07.008 6db Compacting 1@1 + 1@2 files
+2020/09/27-16:39:07.070 6db Generated table #57@1: 137 keys, 134306 bytes
+2020/09/27-16:39:07.070 6db Compacted 1@1 + 1@2 files => 134306 bytes
+2020/09/27-16:39:07.118 6db compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/27-16:39:07.119 6db Delete type=2 #56
+2020/09/27-16:39:07.119 6db Delete type=2 #53
+2020/09/27-16:39:07.119 6db Manual compaction at level-1 from '\x00\x08\x01\x02\x01E\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00?\x00t\x00a\x00b\x00=\x00r\x00m\x00&\x00o\x00g\x00b\x00l' @ 12322 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/09/25-16:56:25.676 1cff Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/IndexedDB/https_www.pigiame.co.ke_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/25-16:56:25.677 1cff Recovering log #27
+2020/09/25-16:56:25.677 1cff Reusing old log /home/ndemo/.config/google-chrome/Default/IndexedDB/https_www.pigiame.co.ke_0.indexeddb.leveldb/000027.log 
+2020/09/25-16:58:15.121 36b Level-0 table #32: started
+2020/09/25-16:58:15.193 36b Level-0 table #32: 117431 bytes OK
+2020/09/25-16:58:15.236 36b Delete type=0 #27
+2020/09/25-16:58:15.236 36b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/25-16:58:15.236 36b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x03\x00\xb0\x92\xe2XLwB\x00\x01E\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00p\x00i\x00g\x00i\x00a\x00m\x00e\x00.\x00c\x00o\x00.\x00k\x00e\x00/\x00c\x00l\x00a\x00s\x00s\x00i\x00f\x00i\x00e\x00d\x00s\x00?\x00q\x00=\x00C\x00a\x00t\x00%\x002\x000\x006\x00%\x002\x000\x00O\x00u\x00t\x00d\x00o\x00o\x00r\x00%\x002\x000\x00C\x00a\x00b\x00l\x00e\x00&\x00p\x00=\x004' @ 8019 : 1
+2020/09/25-16:58:15.236 36b Compacting 1@1 + 1@2 files
+2020/09/25-16:58:15.283 36b Generated table #33@1: 491 keys, 76942 bytes
+2020/09/25-16:58:15.283 36b Compacted 1@1 + 1@2 files => 76942 bytes
+2020/09/25-16:58:15.372 36b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/25-16:58:15.372 36b Delete type=2 #32
+2020/09/25-16:58:15.372 36b Delete type=2 #29
+2020/09/25-16:58:15.373 36b Manual compaction at level-1 from '\x00\x02\x01\x1f\x03\x00\xb0\x92\xe2XLwB\x00\x01E\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00p\x00i\x00g\x00i\x00a\x00m\x00e\x00.\x00c\x00o\x00.\x00k\x00e\x00/\x00c\x00l\x00a\x00s\x00s\x00i\x00f\x00i\x00e\x00d\x00s\x00?\x00q\x00=\x00C\x00a\x00t\x00%\x002\x000\x006\x00%\x002\x000\x00O\x00u\x00t\x00d\x00o\x00o\x00r\x00%\x002\x000\x00C\x00a\x00b\x00l\x00e\x00&\x00p\x00=\x004' @ 8019 : 1 .. (end); will stop at (end)

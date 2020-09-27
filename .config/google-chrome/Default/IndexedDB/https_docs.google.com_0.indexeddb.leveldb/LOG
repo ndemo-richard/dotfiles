@@ -1,0 +1,15 @@
+2020/09/27-18:11:02.749 736 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-18:11:02.749 736 Recovering log #25
+2020/09/27-18:11:02.757 736 Reusing old log /home/ndemo/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000025.log 
+2020/09/27-18:38:15.422 46c Level-0 table #29: started
+2020/09/27-18:38:15.466 46c Level-0 table #29: 190 bytes OK
+2020/09/27-18:38:15.503 46c Delete type=0 #25
+2020/09/27-18:38:15.503 46c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/27-18:38:15.503 46c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 677 : 1
+2020/09/27-18:38:15.503 46c Compacting 1@1 + 1@2 files
+2020/09/27-18:38:15.545 46c Generated table #30@1: 205 keys, 3148 bytes
+2020/09/27-18:38:15.545 46c Compacted 1@1 + 1@2 files => 3148 bytes
+2020/09/27-18:38:15.580 46c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/27-18:38:15.580 46c Delete type=2 #5
+2020/09/27-18:38:15.580 46c Delete type=2 #29
+2020/09/27-18:38:15.581 46c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 677 : 1 .. (end); will stop at (end)

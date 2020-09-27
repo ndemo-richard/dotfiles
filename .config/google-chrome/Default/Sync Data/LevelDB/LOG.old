@@ -1,0 +1,9 @@
+2020/09/27-17:52:29.118 267 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/09/27-17:52:29.147 267 Recovering log #4
+2020/09/27-17:52:29.182 267 Reusing old log /home/ndemo/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2020/09/27-18:26:09.564 482 Level-0 table #8: started
+2020/09/27-18:26:09.613 482 Level-0 table #8: 103118 bytes OK
+2020/09/27-18:26:09.650 482 Delete type=0 #4
+2020/09/27-19:04:15.798 482 Level-0 table #10: started
+2020/09/27-19:04:15.869 482 Level-0 table #10: 149994 bytes OK
+2020/09/27-19:04:15.910 482 Delete type=0 #7

@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://email-checker.net/?utm_source=chromeExtn&utm_medium=referral&utm_campaign=AddOn"
+      },
+      "urls": [ "http://email-checker.net/" ]
+   },
+   "description": "Free email verification tool",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzQPA3/CZdOFBDEcb90HzqyjVKMMtcOhpNpZa+es/kPx9ufcPagNkW+hb7/vg7gXadruoa0M5O1peSpMuVrCjijIIN0wMFKUOX71Hegfew5IFs+JA4ewzI6kn5kBERpQciaW1LzRhGLYKTs4kchN1A5eord/IJ5591iAi3rZrJqCYEWM6GUaLHQIA5q1xw9v3c2dB3ARIMp1D6dK4DvDMyxOsSharJlcRy6M7G/NFJ8vAcha1mHqx63aWyq7z7l6yWUctrbAOQyASFznE3o1Ye17mScK3d62F5m+I3sZcEUxlj523+qsgQ0zx7E6KgmPENQUuLW7Mm34RLBq6OROVJQIDAQAB",
+   "manifest_version": 2,
+   "name": "Email Verifier",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

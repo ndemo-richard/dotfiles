@@ -1,0 +1,10 @@
+#!/bin/sh
+
+battery 
+weather 
+internet 
+nettraf 
+volume  
+disk 
+cpu  
+memory 

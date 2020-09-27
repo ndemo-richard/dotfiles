@@ -1,0 +1,59 @@
+{
+   "app_delete_successfull_msg": {
+      "message": "Все сообщения удалены"
+   },
+   "app_description": {
+      "message": "Позволяет удалять все сообщения на Facebook одним щелчком мыши. Удаляй все или определенные переписки."
+   },
+   "app_found_message_msg": {
+      "message": "У вас есть сообщения для удаления!"
+   },
+   "app_in_progress": {
+      "message": "Анализ данных..."
+   },
+   "app_name": {
+      "message": "Удалить все сообщения в Facebook™"
+   },
+   "app_no_selected_message_msg": {
+      "message": "Нет выбранных сообщений для удаления"
+   },
+   "app_not_found_message": {
+      "message": "У вас нет сообщений для удаления!"
+   },
+   "app_please_wait_moments_msg": {
+      "message": "Подождите несколько секунд ..."
+   },
+   "app_popup_btn_analyzing_all": {
+      "message": "Анализ..."
+   },
+   "app_popup_btn_delete_all": {
+      "message": "Удалить все сообщения"
+   },
+   "app_popup_footer": {
+      "message": ""
+   },
+   "app_popup_note": {
+      "message": "Пожалуйста, тщательно подумайте перед тем как нажать 'Удалить все сообщения', это действие не обратимо"
+   },
+   "app_popup_or": {
+      "message": "или"
+   },
+   "app_popup_progress": {
+      "message": "Удаление..."
+   },
+   "app_popup_title": {
+      "message": "Удалить все сообщения в Facebook™"
+   },
+   "app_popup_warning_msg": {
+      "message": "Пожалуйста, не кликайте по браузеру, это может занять несколько минут."
+   },
+   "app_short_name": {
+      "message": "Удалить все сообщения в Facebook™"
+   },
+   "app_suka": {
+      "message": "Выборочное удаление"
+   },
+   "app_warning": {
+      "message": "Как только вы удалите эти сообщения. Их нельзя будет востановить"
+   }
+}

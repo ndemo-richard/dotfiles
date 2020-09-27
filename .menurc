@@ -1,0 +1,313 @@
+menupos = 5 25
+iconsize = 24
+
+submenu = Network
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-internet.png
+
+    item = _Vivaldi
+    cmd  = vivaldi-snapshot
+    icon = /usr/share/icons/hicolor/24x24/apps/vivaldi-snapshot.png
+
+    item = Chromium
+    cmd  = chromium
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/chromium.png
+
+    item = Opera-developer
+    cmd  = opera-developer
+    icon = /usr/share/icons/nouveKDEGray/32x32/apps/opera.png
+
+    item = Firefox
+    cmd  = firefox
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/firefox.png
+
+    item = Thunderbird
+    cmd  = thunderbird
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/thunderbird.png
+
+    item = Links
+    cmd  = links
+    icon = /home/haron/.icons/My_icons/links.png
+
+    item = Hexchat
+    cmd  = hexchat
+    icon = /home/haron/.icons/My_icons/hexchat.png
+
+    item = Telegram
+    cmd  = xdg-open https://web.telegram.org/#/im
+    icon = /home/haron/.icons/My_icons/telegram.png
+
+    item = Viber
+    cmd  = viber
+    icon = /usr/share/icons/nouveKDEGray/32x32/apps/viber.png
+
+    item = Transmission
+    cmd  = transmission-gtk
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/transmission.png
+
+    item = Transmission-daemon
+    cmd  = transd
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/transmission.png
+
+    item = TransGUI
+    cmd  = transgui
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/transmission.png
+
+    item = Tixati
+    cmd  = tixati
+    icon = /home/haron/.icons/My_icons/tixati.png
+
+    item = Zenmap
+    cmd  = gksudo zenmap
+    icon = /home/haron/.icons/AwOkenWhite/clear/24x24/apps/zenmap.png
+
+    item = Dropbox
+    cmd  = dropboxd
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/dropbox.png
+
+submenu = Media
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-multimedia.png
+
+    item = MPV
+    cmd  = mpv --player-operation-mode=pseudo-gui -- %U
+    icon = /home/haron/.icons/My_icons/mpv.png
+
+    item = TV
+    cmd  = TV
+    icon = /usr/share/icons/nouveGnomeGray/24x24/devices/computer.png
+
+    item = DeadBeef
+    cmd  = deadbeef
+    icon = /home/haron/pics/deadbeef-grey.png
+
+    item = Vlc
+    cmd  = vlc
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/vlc.png
+
+    item = Sopcast-player
+    cmd  = sopcast-player
+    icon = /home/haron/.icons/My_icons/sopcast-player.png
+
+    item = Simple Screen Recorder
+    cmd  = simplescreenrecorder
+    icon = /home/haron/.icons/My_icons/ssr.png
+
+    item = EasyTag
+    cmd  = easytag
+    icon = /usr/share/icons/nouveGnomeGray/24x24/mimetypes/application-xspf+xml.png
+
+    item = PulseAudio
+    cmd  = pavucontrol
+    icon = /usr/share/icons/nouveGnomeGray/24x24/status/audio-volume-high.png
+
+submenu = Graphics
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-graphics.png
+
+    item = Shutter
+    cmd  = shutter
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/shutter.png
+
+    item = Gimp
+    cmd  = gimp
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/gimp.png
+
+    item = Inkscape
+    cmd  = inkscape
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/inkscape.png
+
+    item = Gpick
+    cmd  = gpick
+    icon = /home/haron/.icons/My_icons/gpick_icon.png
+
+    item = Mirage
+    cmd  = mirage
+    icon = /home/haron/.icons/My_icons/mirage.png
+
+submenu = Games
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-games.png
+
+    item = HMM3
+    cmd = heroes3
+    icon = 
+
+    item = StarMade
+    cmd  = starmade
+    icon = 
+
+submenu = Development
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-development.png
+
+    item = Sublime text 3
+    cmd  = subl3
+    icon = /home/haron/.icons/My_icons/sublime-text.png
+
+    item = XVim
+    cmd  = xvim
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/vim.png
+
+    item = XMicro
+    cmd  = xmicro
+    icon = /home/haron/.icons/My_icons/micro.png
+
+    item = Meld
+    cmd  = meld
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/meld.png
+
+    item = GitKraken
+    cmd  = gitkraken
+    icon = /home/haron/.icons/My_icons/gitkraken.png
+
+submenu = Office
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-office.png
+
+    item = Libre Office
+    cmd  = soffice
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/libreoffice-startcenter.png
+
+    item = LO Calc
+    cmd  = libreoffice --calc
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/libreoffice-calc.png
+
+    item = LO Writer
+    cmd  = libreoffice --writer
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/libreoffice-writer.png
+
+    item = LO Impress
+    cmd  = libreoffice --impress
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/libreoffice-impress.png
+
+    item = LO Draw
+    cmd  = libreoffice --draw
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/libreoffice-draw.png
+
+    item = LO Base
+    cmd  = libreoffice --base
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/libreoffice-base.png
+
+    item = LO Math
+    cmd  = libreoffice --math
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/libreoffice-math.png
+
+    item = FoxitReader
+    cmd  = FoxitReader
+    icon = /usr/share/icons/nouveGnomeGray/24x24/mimetypes/gnome-mime-application-pdf.png
+
+    item = CherryTree
+    cmd  = cherrytree
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/cherrytree.png
+
+submenu = Work
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-engineering.png
+
+    item = PRO100-5
+    cmd  = PRO100-5
+    icon = /home/haron/.icons/My_icons/075.png
+
+    item = 2D-Place
+    cmd  = 2D-Place
+    icon = /usr/share/icons/nouveGnomeGray/24x24/actions/document-page-setup.png
+
+submenu = Tools
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-utilities.png
+
+    item = Galculator
+    cmd  = galculator
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/accessories-calculator.png
+
+    item = Htop
+    cmd  = urxvtc -name htop -e htop
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/preferences-desktop.png
+
+    item = MC
+    cmd  = urxvtc -name mc -e mc
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/system-file-manager.png
+
+    item = Ranger
+    cmd  = urxvtc -name ranger -e ranger
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/system-file-manager.png
+
+    item = Systemadm
+    cmd  = systemadm
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/preferences-system.png
+
+    item = CryptKeeper
+    cmd  = cryptkeeper
+    icon = /usr/share/icons/nouveGnomeGray/Extra/folder_special.png
+
+    item = Gparted
+    cmd  = gksudo gparted
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/gparted.png
+
+    item = GSmartControl
+    cmd  = gksudo gsmartcontrol
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/gsmartcontrol.png
+
+    item = PacmanXG
+    cmd  = ssx pacmanxg
+    icon = /usr/share/icons/nouveGnomeGray/24x24/places/archlinux-logo.png
+
+    item = Xarchiver
+    cmd  = xarchiver %f
+    icon = /usr/share/icons/nouveGnomeGray/24x24/mimetypes/package-x-generic.png
+
+    item = FileRoller
+    cmd  = file-roller %U
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/file-roller.png
+
+    item = Font Viewer
+    cmd  = gnome-font-viewer
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/preferences-desktop-font.png
+
+    item = Gucharmap
+    cmd  = gnome-character-map
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/preferences-desktop-font.png
+
+submenu = Settings
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/applications-system.png
+
+    item = LXAppearance
+    cmd  = lxappearance
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/preferences-color.png
+
+    item = Dconf-editor
+    cmd  = dconf-editor
+    icon = /usr/share/icons/nouveGnomeGray/24x24/apps/dconf-editor.png
+
+    item = Gconf-editor
+    cmd  = gconf-editor
+    icon = /usr/share/icons/hicolor/24x24/apps/gconf-editor.png
+
+    item = Icon Browser
+    cmd  = gtk3-icon-browser
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/preferences-desktop.png
+
+    item = Qt4-config
+    cmd  = qtconfig-qt4
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/preferences-desktop.png
+
+    item = OOMOX
+    cmd  = oomox-gui
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/preferences-desktop.png
+
+    item = Preferred Applications
+    cmd  = libfm-pref-apps
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/preferences-desktop.png
+
+    item = Privilege granting
+    cmd  = gksu-properties
+    icon = /usr/share/icons/nouveGnomeGray/24x24/categories/preferences-desktop-personal.png
+
+item = 
+cmd  = false
+icon =
+
+item = Lock
+cmd  = i3lock -i /home/haron/wall/starrynight.png
+icon = /usr/share/icons/nouveGnomeGray/24x24/actions/system-lock-screen.png
+
+item = Reboot
+cmd  = compreboot
+icon = /usr/share/icons/nouveGnomeGray/24x24/actions/view-refresh.png
+
+item = Shutdown
+cmd  = compdown
+icon = /usr/share/icons/nouveGnomeGray/24x24/actions/gtk-quit.png

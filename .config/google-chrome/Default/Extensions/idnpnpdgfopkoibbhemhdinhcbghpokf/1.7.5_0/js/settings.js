@@ -1,0 +1,1 @@
+var checkBox=document.getElementById("enable_btn");chrome.storage.local.get("enable_btn",function(a){a.enable_btn&&checkBox.setAttribute("checked","checked")}),checkBox.addEventListener("change",function(){chrome.storage.local.get("enable_btn",a=>{chrome.storage.local.set({enable_btn:!a.enable_btn})})});

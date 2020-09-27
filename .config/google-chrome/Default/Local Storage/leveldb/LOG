@@ -1,0 +1,21 @@
+2020/09/27-19:34:29.725 252 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/27-19:34:29.758 252 Recovering log #299
+2020/09/27-19:34:30.037 252 Reusing old log /home/ndemo/.config/google-chrome/Default/Local Storage/leveldb/000299.log 
+2020/09/27-19:35:46.524 4ed Level-0 table #303: started
+2020/09/27-19:35:46.590 4ed Level-0 table #303: 117722 bytes OK
+2020/09/27-19:35:46.629 4ed Delete type=0 #299
+2020/09/27-19:38:09.352 4ed Level-0 table #305: started
+2020/09/27-19:38:09.419 4ed Level-0 table #305: 85966 bytes OK
+2020/09/27-19:38:09.460 4ed Delete type=0 #302
+2020/09/27-19:38:09.460 4ed Compacting 4@0 + 1@1 files
+2020/09/27-19:38:09.564 4ed Generated table #306@0: 1993 keys, 818119 bytes
+2020/09/27-19:38:09.564 4ed Compacted 4@0 + 1@1 files => 818119 bytes
+2020/09/27-19:38:09.604 4ed compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/27-19:38:09.605 4ed Delete type=2 #296
+2020/09/27-19:38:09.605 4ed Delete type=2 #305
+2020/09/27-19:38:09.605 4ed Delete type=2 #298
+2020/09/27-19:38:09.605 4ed Delete type=2 #303
+2020/09/27-19:38:09.605 4ed Delete type=2 #300
+2020/09/27-20:01:09.351 4ed Level-0 table #308: started
+2020/09/27-20:01:09.413 4ed Level-0 table #308: 98090 bytes OK
+2020/09/27-20:01:09.453 4ed Delete type=0 #304

@@ -1,0 +1,59 @@
+{
+   "app_delete_successfull_msg": {
+      "message": "All messages have been deleted"
+   },
+   "app_description": {
+      "message": "Vous permet de supprimer tous les messages sur Facebook en un clic."
+   },
+   "app_found_message_msg": {
+      "message": "You have messages to delete!"
+   },
+   "app_in_progress": {
+      "message": "Analyzing..."
+   },
+   "app_name": {
+      "message": "Supprimer tous les messages pour Facebook ™"
+   },
+   "app_no_selected_message_msg": {
+      "message": "No messages selected"
+   },
+   "app_not_found_message": {
+      "message": "You have no messages to delete!"
+   },
+   "app_please_wait_moments_msg": {
+      "message": "Please wait a moments..."
+   },
+   "app_popup_btn_analyzing_all": {
+      "message": "Analyzing..."
+   },
+   "app_popup_btn_delete_all": {
+      "message": "Delete All Messages"
+   },
+   "app_popup_footer": {
+      "message": ""
+   },
+   "app_popup_note": {
+      "message": "Please think carefully before you click 'Delete all Messages', this action cannot be returned"
+   },
+   "app_popup_or": {
+      "message": "OR"
+   },
+   "app_popup_progress": {
+      "message": "Deleting..."
+   },
+   "app_popup_title": {
+      "message": "Delete all Facebook messages at once"
+   },
+   "app_popup_warning_msg": {
+      "message": "Please do not click anywhere on the browser, It may take a few minutes to complete"
+   },
+   "app_short_name": {
+      "message": "Delete All Messages"
+   },
+   "app_suka": {
+      "message": "Choose & Delete"
+   },
+   "app_warning": {
+      "message": "Once you delete your copy of this conversation, it cannot be undone"
+   }
+}

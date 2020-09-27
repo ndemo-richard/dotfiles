@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ndemo/Downloads/xmonad.hs" added="2020-09-22T14:41:12.961665Z" modified="2020-09-22T14:41:12.961693Z" visited="2020-09-22T14:41:12.961671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T14:41:12.961681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/xmobar.hs" added="2020-09-22T14:42:49.000223Z" modified="2020-09-22T14:42:49.000253Z" visited="2020-09-22T14:42:49.000230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T14:42:49.000239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/bin-20200922T144319Z-001.zip" added="2020-09-22T14:43:30.248879Z" modified="2020-09-22T14:43:30.248915Z" visited="2020-09-22T14:43:30.248886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T14:43:30.248902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/xinitrc" added="2020-09-22T14:45:18.255558Z" modified="2020-09-22T14:45:18.255586Z" visited="2020-09-22T14:45:18.255564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T14:45:18.255573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.xinitrc" added="2020-09-22T14:46:46.967118Z" modified="2020-09-24T17:01:09.143291Z" visited="2020-09-22T14:46:46.967123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-24T17:01:09.143284Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.xmonad/xmonad.hs" added="2020-09-22T16:44:14.493400Z" modified="2020-09-26T17:02:51.765390Z" visited="2020-09-22T16:44:14.493404Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T17:02:51.765382Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.zshrc" added="2020-09-24T11:23:53.026165Z" modified="2020-09-25T10:10:21.056562Z" visited="2020-09-24T11:23:53.026170Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T10:10:21.056552Z" count="115"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.zprofile" added="2020-09-24T11:31:31.128425Z" modified="2020-09-24T11:32:09.881146Z" visited="2020-09-24T11:31:31.128430Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-24T11:32:09.881135Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd" added="2020-09-24T12:04:57.182472Z" modified="2020-09-25T06:28:25.029051Z" visited="2020-09-24T12:04:57.182477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T06:28:25.029042Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/multdisplay" added="2020-09-24T14:29:55.151024Z" modified="2020-09-24T14:35:22.680158Z" visited="2020-09-24T14:29:55.151029Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-24T14:35:22.680151Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/automon" added="2020-09-24T14:43:45.294711Z" modified="2020-09-24T14:43:45.294746Z" visited="2020-09-24T14:43:45.294718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-24T14:43:45.294733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/displayselect" added="2020-09-24T15:43:28.669939Z" modified="2020-09-24T15:43:28.669961Z" visited="2020-09-24T15:43:28.669944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-24T15:43:28.669953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/autodisplay" added="2020-09-24T15:45:04.898928Z" modified="2020-09-24T15:45:35.419965Z" visited="2020-09-24T15:45:04.898932Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-24T15:45:35.419956Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Pictures/wallpapertip_swag-iphone-wallpaper_369527.jpg" added="2020-09-24T16:42:56.003001Z" modified="2020-09-24T16:42:56.003020Z" visited="2020-09-24T16:42:56.003005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-24T16:42:56.003012Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Pictures/arch_linux_glass_logo-wallpaper-1366x768.jpg" added="2020-09-24T16:58:39.851146Z" modified="2020-09-24T16:58:39.851170Z" visited="2020-09-24T16:58:39.851152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-24T16:58:39.851160Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/linux_tips/reload_zsh" added="2020-09-25T04:11:50.376451Z" modified="2020-09-25T04:11:50.376478Z" visited="2020-09-25T04:11:50.376458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T04:11:50.376469Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/profile" added="2020-09-25T05:46:29.840600Z" modified="2020-09-25T05:46:29.840622Z" visited="2020-09-25T05:46:29.840606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T05:46:29.840615Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/zshrc" added="2020-09-25T07:56:42.680138Z" modified="2020-09-25T08:00:20.774428Z" visited="2020-09-25T07:56:42.680142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T08:00:20.774419Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/volume" added="2020-09-25T14:15:06.289894Z" modified="2020-09-25T14:52:01.688110Z" visited="2020-09-25T14:15:06.289899Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T14:52:01.688099Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/xmobar-pipe" added="2020-09-25T14:47:35.127285Z" modified="2020-09-25T14:48:07.544794Z" visited="2020-09-25T14:47:35.127291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T14:48:07.544784Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/clock" added="2020-09-25T15:02:53.031823Z" modified="2020-09-25T15:04:25.354323Z" visited="2020-09-25T15:02:53.031829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T15:04:25.354316Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/internet" added="2020-09-25T16:53:02.535394Z" modified="2020-09-25T16:55:22.128697Z" visited="2020-09-25T16:53:02.535400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T16:55:22.128688Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/nettraf" added="2020-09-25T17:14:22.000755Z" modified="2020-09-25T17:14:22.000780Z" visited="2020-09-25T17:14:22.000760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T17:14:22.000771Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/weather" added="2020-09-25T17:19:44.547829Z" modified="2020-09-25T17:19:51.488351Z" visited="2020-09-25T17:19:44.547835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T17:19:51.488344Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/cpu" added="2020-09-25T17:21:34.742608Z" modified="2020-09-25T18:06:58.491588Z" visited="2020-09-25T17:21:34.742613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T18:06:58.491581Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/battery" added="2020-09-25T17:24:11.987304Z" modified="2020-09-26T08:07:17.123725Z" visited="2020-09-25T17:24:11.987309Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T08:07:17.123716Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/memory" added="2020-09-25T17:25:40.069994Z" modified="2020-09-25T18:00:58.968179Z" visited="2020-09-25T17:25:40.069999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T18:00:58.968172Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/disk" added="2020-09-25T17:28:21.846409Z" modified="2020-09-25T17:29:05.350735Z" visited="2020-09-25T17:28:21.846416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T17:29:05.350726Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/XMStart" added="2020-09-25T18:26:02.700331Z" modified="2020-09-25T18:26:02.700358Z" visited="2020-09-25T18:26:02.700337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-25T18:26:02.700349Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Pictures/_xmobarbakup" added="2020-09-26T04:46:53.434098Z" modified="2020-09-26T04:46:53.434129Z" visited="2020-09-26T04:46:53.434104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-26T04:46:53.434117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.xmonad/xmobar.hs" added="2020-09-26T04:47:35.597446Z" modified="2020-09-27T16:03:20.479987Z" visited="2020-09-26T04:47:35.597452Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-27T16:03:20.479978Z" count="280"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/xmobar-pipe" added="2020-09-26T06:57:08.632930Z" modified="2020-09-26T06:57:08.632955Z" visited="2020-09-26T06:57:08.632936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T06:57:08.632947Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/red.hs" added="2020-09-26T08:29:51.778868Z" modified="2020-09-26T16:39:26.657552Z" visited="2020-09-26T08:29:51.778877Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T16:39:26.657508Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Pictures/menurc" added="2020-09-26T08:42:11.192308Z" modified="2020-09-26T08:42:11.192341Z" visited="2020-09-26T08:42:11.192316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-26T08:42:11.192327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/Documents/xmobar.hs" added="2020-09-26T12:38:01.593958Z" modified="2020-09-27T13:34:39.297531Z" visited="2020-09-26T12:38:01.593965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-26T12:38:01.593975Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-27T13:34:39.297523Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.config/polybar/config" added="2020-09-26T13:55:52.706319Z" modified="2020-09-26T14:57:47.727502Z" visited="2020-09-26T13:55:52.706325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T14:57:47.727495Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.config/polybar/launch.sh" added="2020-09-26T13:56:29.424625Z" modified="2020-09-26T13:56:29.424656Z" visited="2020-09-26T13:56:29.424632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T13:56:29.424645Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/exmo.hs" added="2020-09-26T14:27:56.610891Z" modified="2020-09-26T14:27:56.610915Z" visited="2020-09-26T14:27:56.610898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T14:27:56.610908Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.config/redshift.conf" added="2020-09-26T14:53:55.941457Z" modified="2020-09-26T14:53:55.941484Z" visited="2020-09-26T14:53:55.941464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T14:53:55.941475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/co.hs" added="2020-09-26T14:59:24.393304Z" modified="2020-09-26T14:59:24.393328Z" visited="2020-09-26T14:59:24.393310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T14:59:24.393320Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/launch_polybar" added="2020-09-26T15:06:52.148551Z" modified="2020-09-26T15:06:52.148573Z" visited="2020-09-26T15:06:52.148556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T15:06:52.148565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/Documents/Config.hs" added="2020-09-26T16:58:59.062194Z" modified="2020-09-26T16:58:59.062224Z" visited="2020-09-26T16:58:59.062201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-26T16:58:59.062212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/xmonadbak/xmobar.hs" added="2020-09-26T17:06:53.676992Z" modified="2020-09-27T05:21:40.588217Z" visited="2020-09-26T17:06:53.676997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-27T05:21:40.588209Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/temp/terminus-re33/PKGBUILD" added="2020-09-26T17:34:21.444524Z" modified="2020-09-26T17:34:35.359018Z" visited="2020-09-26T17:34:21.444528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-26T17:34:35.359007Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/Documents/_b65e7611894ba175de27bd14793f894a_15UnionFind.pdf" added="2020-09-27T05:02:42.818767Z" modified="2020-09-27T05:02:42.818792Z" visited="2020-09-27T05:02:42.818773Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-27T05:02:42.818782Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/rofi-calender" added="2020-09-27T15:06:56.444542Z" modified="2020-09-27T15:06:56.444573Z" visited="2020-09-27T15:06:56.444549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-27T15:06:56.444561Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.local/bin/statusbar/gcal" added="2020-09-27T15:21:36.877981Z" modified="2020-09-27T15:53:14.714923Z" visited="2020-09-27T15:21:36.877988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-27T15:53:14.714913Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/icons-20200927T152253Z-001.zip" added="2020-09-27T15:23:22.375872Z" modified="2020-09-27T15:23:22.375903Z" visited="2020-09-27T15:23:22.375879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-27T15:23:22.375890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/Downloads/tar.tar" added="2020-09-27T15:30:00.942005Z" modified="2020-09-27T15:30:00.942032Z" visited="2020-09-27T15:30:00.942012Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-27T15:30:00.942021Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ndemo/.config/dunst/dunstrc" added="2020-09-27T15:56:39.889150Z" modified="2020-09-27T15:56:39.889179Z" visited="2020-09-27T15:56:39.889157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-27T15:56:39.889169Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

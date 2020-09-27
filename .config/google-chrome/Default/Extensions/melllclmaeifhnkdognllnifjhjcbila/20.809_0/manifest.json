@@ -1,0 +1,29 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "/assets/images/icon48.png",
+      "default_title": "Click here to stop recording"
+   },
+   "content_scripts": [ {
+      "css": [ "/unmoderated.css", "assets/css/font-awesome.min.css" ],
+      "js": [ "/index.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Validately unmoderated",
+   "icons": {
+      "128": "/assets/images/icon128.png",
+      "48": "/assets/images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiMP08Lihzrd90mdsrBET7qLko9xt58+tjMh+5hN71kyYjSbCRiHlrEV6K1fWjpMti7rcQ6j8j/ZdUJFTYcOinIdu2rCYjWfSypEmvnvK0OjpGxdVdmlsn2aqufnge26wC1+a3UAkT/y+AFOBO7ZFTyImD2DMoXrQvg5SdVMOcRO+oBbTG1PNEngR0oopPblsGIm4TuUEBzzHqKNjITuXAmpSptyb9cGRuUWaGDGXfnSYBJ7pk9ekAfhIfgooCuvdJf2VYxqNsUF+Y0J/yoiZPwcpWTMHICIOO57V6N9sRHgXMWOrLQyAHmPUfKMI2h4xbintthhu7Gq1k9wngLewTQIDAQAB",
+   "manifest_version": 2,
+   "name": "Validately Unmoderated Testing",
+   "permissions": [ "background", "desktopCapture", "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "20.809",
+   "version_name": "20200806.0edf9e6",
+   "web_accessible_resources": [ "background.html", "app.html", "app.js", "unmoderated.css", "micAccess.js", "assets/*" ]
+}

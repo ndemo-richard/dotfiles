@@ -1,0 +1,26 @@
+2020/09/27-17:52:46.010 285 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/09/27-17:52:46.037 285 Recovering log #539
+2020/09/27-17:52:46.057 285 Reusing old log /home/ndemo/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000539.log 
+2020/09/27-17:54:01.095 482 Level-0 table #543: started
+2020/09/27-17:54:01.348 482 Level-0 table #543: 5662637 bytes OK
+2020/09/27-17:54:01.393 482 Delete type=0 #539
+2020/09/27-18:00:07.220 482 Level-0 table #545: started
+2020/09/27-18:00:07.495 482 Level-0 table #545: 5662894 bytes OK
+2020/09/27-18:00:07.538 482 Delete type=0 #542
+2020/09/27-18:54:01.288 482 Level-0 table #547: started
+2020/09/27-18:54:01.579 482 Level-0 table #547: 5662980 bytes OK
+2020/09/27-18:54:01.620 482 Delete type=0 #544
+2020/09/27-18:54:01.624 482 Compacting 4@0 + 2@1 files
+2020/09/27-18:54:02.304 482 Generated table #548@0: 1 keys, 5662503 bytes
+2020/09/27-18:54:02.349 482 Generated table #549@0: 3 keys, 489 bytes
+2020/09/27-18:54:02.349 482 Compacted 4@0 + 2@1 files => 5662992 bytes
+2020/09/27-18:54:02.427 482 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/09/27-18:54:02.428 482 Delete type=2 #547
+2020/09/27-18:54:02.428 482 Delete type=2 #540
+2020/09/27-18:54:02.428 482 Delete type=2 #545
+2020/09/27-18:54:02.428 482 Delete type=2 #538
+2020/09/27-18:54:02.428 482 Delete type=2 #543
+2020/09/27-18:54:02.428 482 Delete type=2 #537
+2020/09/27-18:54:31.841 482 Level-0 table #551: started
+2020/09/27-18:54:32.157 482 Level-0 table #551: 5662777 bytes OK
+2020/09/27-18:54:32.200 482 Delete type=0 #546

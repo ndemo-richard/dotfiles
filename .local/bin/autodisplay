@@ -1,0 +1,13 @@
+#!/bin/sh
+
+multimon() { # Multi-monitor handler.
+	case "$(echo "$screens" | wc -l)" in
+		2) twoscreen ;;
+		*) morescreen ;;
+	esac ;}
+
+#Get all possible display
+allposs=$(xrandr -q | grep "connected")
+
+#get all connected screens
+screens=$(echo "$allposs" | awk '/ connected/ {print $1} ')

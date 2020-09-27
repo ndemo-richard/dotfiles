@@ -1,0 +1,18 @@
+2020/09/26-21:04:59.149 523 Reusing MANIFEST /home/ndemo/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/26-21:04:59.150 523 Recovering log #20
+2020/09/26-21:04:59.195 523 Reusing old log /home/ndemo/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000020.log 
+2020/09/26-21:05:54.594 3bf Compacting 1@1 + 1@2 files
+2020/09/26-21:05:54.669 3bf Generated table #23@1: 66 keys, 17126 bytes
+2020/09/26-21:05:54.669 3bf Compacted 1@1 + 1@2 files => 17126 bytes
+2020/09/26-21:05:54.708 3bf compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/26-21:05:54.709 3bf Delete type=2 #18
+2020/09/26-21:05:54.709 3bf Delete type=2 #21
+2020/09/26-21:49:04.130 3bf Level-0 table #25: started
+2020/09/26-21:49:04.341 3bf Level-0 table #25: 2422195 bytes OK
+2020/09/26-21:49:04.420 3bf Delete type=0 #20
+2020/09/26-21:52:32.333 3bf Compacting 1@1 + 1@2 files
+2020/09/26-21:52:32.394 3bf Generated table #26@1: 70 keys, 26693 bytes
+2020/09/26-21:52:32.394 3bf Compacted 1@1 + 1@2 files => 26693 bytes
+2020/09/26-21:52:32.428 3bf compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/26-21:52:32.428 3bf Delete type=2 #23
+2020/09/26-21:52:32.428 3bf Delete type=2 #25
